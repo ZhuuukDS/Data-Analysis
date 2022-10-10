@@ -3,7 +3,7 @@
 <img src='rtt.png' height=250>
 
 #### Overview
-This study is aimed at studying the distribution of 'Russian Tennis Tour' points among russian female tennis players under the age of 16.<br>
+This study is aimed at analysing the distribution of 'Russian Tennis Tour' points among russian female tennis players under the age of 16.<br>
 In this study, I tried to determine the influence of various factors on the number of rating points and identify dependencies and patterns.<br>
 I used the `R` language (the 4.2.0 version) for data analysis. <br>
 The main statistics and metrics used in this analysis: __mean, median, variance, standard deviation, 1st and 3rd quartiles, confidence levels, p-values__. <br>
