@@ -23,6 +23,6 @@ The data is anonymized. Session, order and product IDs have been replaced with h
 The dataset provides all the necessary categories that are in the catalog, as well as information about purchased and part of non-purchased goods.
 
 
-#### You can check [pdf](data/related_products.pdf) version and a [Jupyter Notebook](related_products.ipynb) with full analysis and conclusion.
+### You can check [pdf](data/related_products.pdf) version and a [Jupyter Notebook](related_products.ipynb) with full analysis and conclusion.
 
 
