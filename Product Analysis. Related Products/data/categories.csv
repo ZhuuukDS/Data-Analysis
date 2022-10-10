@@ -1,0 +1,1329 @@
+,category_id,parent_id,name,link_url
+0,925,1212.0,Сушилки для обуви,http://e96.ru/household_appliances/washing/sushilki_dlya_obuvi
+1,776,683.0,Футбол,http://e96.ru/sporting_goods/football
+2,735,1175.0,Комоды для ванн,http://e96.ru/furniture/bathroom/komody_dlja_vann
+3,1513,1504.0,Домики для собак,http://e96.ru/zootovary/tovary_dlja_sobak/domiki_dlja_sobak
+4,1357,1086.0,Кувалды,http://e96.ru/tools/hand_tools/kuvaldy
+5,530,1037.0,Погремушки,http://e96.ru/kids/goods_for_newborns/pogremushki
+6,1061,1015.0,Садовые диваны и кресла,http://e96.ru/garden_cottage/furniture_for_garden/sadovye_divany_i_kresla
+7,1015,1007.0,Мебель для дачи,http://e96.ru/garden_cottage/furniture_for_garden
+8,999,175.0,Оптические приборы,http://e96.ru/tourism/optical_devices
+9,706,1002.0,Термобелье,http://e96.ru/tourism/travel_gear/termobele
+10,532,1041.0,Игрушки-рукавички,http://e96.ru/kids/toys/igrushki_rukavichki
+11,7,1158.0,TV brackets,http://e96.ru/audio_video/tv/kronshteyny_dlya_tv
+12,1253,1252.0,Электрические наборы для фондю,http://e96.ru/kitchen_appliance/parties/elektricheskie_nabory_dlya_fondyu
+13,312,1113.0,Блоки питания,http://e96.ru/computers/accessories/bloki_pitanija
+14,1841,1202.0,Датчики для домашней сигнализации,http://e96.ru/household_appliances/video_monitoring/datchiki_dlya_domashney_signalizacii
+15,982,1344.0,Одеяла,http://e96.ru/furniture/bedroom/odeyala
+16,1170,1157.0,Blu-ray плееры,http://e96.ru/audio_video/video_players/blu_ray_pleery
+17,528,1039.0,Санки и снегокаты,http://e96.ru/kids/children_transport/sanki
+18,1528,1189.0,Печи для дома,http://e96.ru/climat/heating/pechi_dlya_doma
+19,467,1005.0,Принадлежности для гриля,http://e96.ru/tourism/grills_barbecue/prinadlezhnosti_dlja_grilja
+20,1670,1036.0,Пеленальные матрасы,http://e96.ru/kids/furniture_and_accessories/pelenalnye_matrasy
+21,1085,129.0,Средства индивидуальной защиты,http://e96.ru/tools/personal_protective_equipment
+22,1156,1.0,Акустика и аудиосистемы,http://e96.ru/audio_video/audio
+23,1814,1156.0,Электрогитары,http://e96.ru/audio_video/audio/elektrogitary
+24,50,1136.0,Автомагнитолы,http://e96.ru/avto/autosound/avtomagnitoly
+25,362,1196.0,Гладильные прессы,http://e96.ru/household_appliances/ironing/gladilnye_pressy
+26,432,1177.0,Клавиши для систем инсталляции,http://e96.ru/sanitary_engineering/installation_systems/knopki_dlja_installjacii
+27,501,1015.0,Раскладушки,http://e96.ru/garden_cottage/furniture_for_garden/raskladushki
+28,468,1093.0,Маски сварочные,http://e96.ru/tools/power_equipment/maski_svarochnye
+29,1525,998.0,Весла,http://e96.ru/tourism/boats_and_motors/vesla
+30,1571,1570.0,Гостиная IKEA,http://e96.ru/ikea/gostinaya_ikea
+31,869,868.0,Коньки для фигурного катания,http://e96.ru/sporting_goods/ice_skating/konki_dlya_figurnogo_kataniya
+32,1509,1503.0,Домики для кошек,http://e96.ru/tovary_dlja_koshek/domiki_dlja_koshek
+33,1153,1.0,Проекционное оборудование,http://e96.ru/audio_video/projectors
+34,1374,46.0,Аксессуары для вытяжек,http://e96.ru/built_in/aksessuary_dlya_vytyajek
+35,471,1085.0,Защитные маски,http://e96.ru/tools/personal_protective_equipment/zashhitnye_maski
+36,1282,1344.0,Кровати,http://e96.ru/furniture/bedroom/krovati
+37,269,1106.0,Зарядные устройства для сотовых телефонов,http://e96.ru/phones/chargers_and_batteries_for_phones/zarjadnye_ustrojjstva
+38,285,1111.0,Чехлы для электронных книг,http://e96.ru/computers/el_books_readers/chekhly_dlja_ehlektronnykh_knig
+39,63,1209.0,Электрические зубные щетки,http://e96.ru/household_appliances/toothbrushes/elektricheskie_zubnye_shhetki
+40,1,,Audio/video,http://e96.ru/audio_video
+41,1043,304.0,Развивающие игры,http://e96.ru/kids/educational_games
+42,1384,,Отделочные материалы,http://e96.ru/finishes
+43,1453,1203.0,Песочные часы,http://e96.ru/household_appliances/presents/pesochnye_chasy
+44,51,46.0,Духовые шкафы,http://e96.ru/built_in/dukhovye_shkafy
+45,233,1008.0,Снегоуборщики,http://e96.ru/garden_cottage/snow_removal/snegouborschiki
+46,1164,1156.0,Кронштейны для аудио техники,http://e96.ru/audio_video/audio/kronshteyny_dlya_audio_tehniki
+47,49,46.0,Варочные поверхности,http://e96.ru/built_in/varochnye_poverkhnosti
+48,196,1115.0,Компьютерные гарнитуры,http://e96.ru/computers/multimedia/kompyuternye_garnitury
+49,157,1075.0,Гайковерты,http://e96.ru/tools/drills/gaikoverty
+50,848,847.0,Bicycles,http://e96.ru/sporting_goods/cycle_racing/velosipedy
+51,1054,1010.0,Шланги для скважин,http://e96.ru/garden_cottage/watering_equipment/shlangi_ldya_skvajin
+52,944,942.0,Цифровые фоторамки,http://e96.ru/foto/photo_frames/cifronie_fotoramki
+53,1594,1586.0,Барная мебель IKEA,http://e96.ru/ikea/stolovaya_ikea/barnaya_mebel_ikea
+54,135,1156.0,Синтезаторы,http://e96.ru/audio_video/audio/sintezatory
+55,1063,1016.0,Мотоблоки,http://e96.ru/garden_cottage/cultivators/motobloki
+56,990,683.0,Спортивные награды,http://e96.ru/sporting_goods/sports_awards
+57,1238,1191.0,Очистители воздуха,http://e96.ru/climat/air_purifiers/ochistiteli_vozduha
+58,178,1143.0,Автомобильные компрессоры,http://e96.ru/avto/auto_accessories/avto_kompressory
+59,1321,1345.0,Шкафы-купе,http://e96.ru/furniture/living_room/shkafy_kupe
+60,1230,1200.0,Торшеры,http://e96.ru/household_appliances/lighting/torshery
+61,482,997.0,Надувные матрасы,http://e96.ru/tourism/inflatable_furniture/matrasy_naduvnye
+62,1359,1370.0,Карманные часы,http://e96.ru/household_appliances/watch/karmannye_chasy
+63,503,1171.0,Душевые лейки,http://e96.ru/sanitary_engineering/faucets/dushevye_lejjki
+64,1519,1347.0,Офисные стулья,http://e96.ru/furniture/office/ofisnye_stulja
+65,59,46.0,Встраиваемые посудомоечные машины,http://e96.ru/built_in/posudomoechnye_mashiny
+66,176,1001.0,Эхолоты,http://e96.ru/tourism/fishing/eholoty
+67,1600,1246.0,Аксессуары для кухонных комбайнов,http://e96.ru/kitchen_appliance/small/aksessuary_dlya_kuhonnyh_kombaynov
+68,550,1193.0,Горелки для котлов,http://e96.ru/climat/boilers/gorelki_dlya_kotlov
+69,1259,1247.0,Раклетницы,http://e96.ru/kitchen_appliance/kitchen_grills/rakletnicy
+70,235,1077.0,Тепловые пушки,http://e96.ru/tools/thermo_and_thermal_guns/teplovye_pushki
+71,73,,Телефоны,http://e96.ru/phones
+72,919,1204.0,Дверные замки,http://e96.ru/household_appliances/homeware/dvernye_zamki
+73,1590,1586.0,Табуреты и скамьи IKEA,http://e96.ru/ikea/stolovaya_ikea/taburety_skami_ikea
+74,489,1202.0,Системы видеонаблюдения,http://e96.ru/household_appliances/video_monitoring/sistemy_videonabljudenija
+75,1161,1143.0,Фаркопы,http://e96.ru/avto/auto_accessories/farkopy
+76,1182,,Климатическое оборудование,http://e96.ru/climat
+77,547,1047.0,Игрушечная еда,http://e96.ru/kids/pretend_play/igrushechnaja_eda
+78,460,1179.0,Фены настенные,http://e96.ru/sanitary_engineering/bathroom_accessories/feny_nastennye
+79,1319,1347.0,Тумбы для офиса,http://e96.ru/furniture/office/tumby_dlya_ofisa
+80,909,847.0,Флягодержатели,http://e96.ru/sporting_goods/cycle_racing/flyagoderjateli
+81,1589,1586.0,Комплекты для столовой IKEA,http://e96.ru/ikea/stolovaya_ikea/komplekty_dlya_stolovoy_ikea
+82,1426,1002.0,Туристические горелки,http://e96.ru/tourism/travel_gear/turisticheskie_gorelki
+83,394,1012.0,Бензиновые воздуходувки,http://e96.ru/garden_cottage/garden_blowers/benzinovye_vozduhoduvki
+84,682,1137.0,Автоблокираторы,http://e96.ru/avto/alarm/avtoblokiratory
+85,1035,304.0,Кроватки для детей,http://e96.ru/kids/baby_cribs
+86,1258,1247.0,Сэндвичницы,http://e96.ru/kitchen_appliance/kitchen_grills/sendvichnicy
+87,898,1144.0,Мотошлемы,http://e96.ru/avto/mototechnics/motoshlemy
+88,58,1189.0,Обогреватели,http://e96.ru/climat/heating/obogrevateli
+89,26,1245.0,Refrigerators,http://e96.ru/kitchen_appliance/large/holodilniki
+90,599,1078.0,Цепи для пил,http://e96.ru/tools/chain_saws_and_shears/cepi_dlya_pil
+91,24,,Товары для кухни,http://e96.ru/kitchen_appliance
+92,129,,Инструменты,http://e96.ru/tools
+93,1868,847.0,Держатели для велооборудования,http://e96.ru/sporting_goods/cycle_racing/derjateli_dlya_velooborudovaniya
+94,326,1014.0,Надувные бассейны,http://e96.ru/garden_cottage/pools/naduvnye_basseyny
+95,1202,16.0,Видеонаблюдение,http://e96.ru/household_appliances/video_monitoring
+96,379,1200.0,Праздничный свет,http://e96.ru/household_appliances/lighting/prazdnichnyi_svet
+97,1715,1570.0,Детская IKEA,http://e96.ru/ikea/detskaya_ikea
+98,1083,129.0,Пневмоинструмент,http://e96.ru/tools/pneumotool
+99,372,1044.0,Сборные масштабные модели,http://e96.ru/kids/hobbies/sbornye_masshtabnye_modeli
+100,457,1179.0,Поручни,http://e96.ru/sanitary_engineering/bathroom_accessories/porucheni
+101,1028,1003.0,Наборы посуды для туризма,http://e96.ru/tourism/utensils_for_tourism/nabory_posudy_dlya_turizma
+102,514,1085.0,Очки защитные,http://e96.ru/tools/personal_protective_equipment/ochki_zashhitnye
+103,1024,997.0,Матрасы надувные детские,http://e96.ru/tourism/inflatable_furniture/matrasy_naduvnye_detskie
+104,618,1206.0,Ёлочные игрушки,http://e96.ru/household_appliances/new_year/elochnye_igrushki
+105,1346,1342.0,Кухня,http://e96.ru/furniture/kitchen
+106,355,1143.0,Защита картера,http://e96.ru/avto/auto_accessories/zashhita_kartera
+107,655,1104.0,Защитные стекла для сотовых телефонов,http://e96.ru/phones/cell_phones/zaschitnye_stekla_dlya_sotovyh_telefonov
+108,79,1191.0,Вентиляторы,http://e96.ru/climat/air_purifiers/ventilyatory
+109,720,1036.0,Детские мягкие диваны,http://e96.ru/kids/furniture_and_accessories/detskie_myagkie_divany
+110,564,1179.0,Карнизы для ванной,http://e96.ru/sanitary_engineering/bathroom_accessories/karnizy_dlja_vannojj
+111,425,1113.0,Корпуса и док-станции для жестких дисков,http://e96.ru/computers/accessories/korpusa_i_dok_stancii_dlja_zhestkikh_diskov
+112,1097,1076.0,Буры и наборы буров,http://e96.ru/tools/hammers/buri
+113,1227,1345.0,Кресла-мешки,http://e96.ru/household_appliances/furniture/kresla_meshki
+114,65,1208.0,Эпиляторы,http://e96.ru/household_appliances/shaving/epilatory
+115,206,,Сантехника,http://e96.ru/sanitary_engineering
+116,1272,1136.0,Мидбасы (НЧ-динамики),http://e96.ru/avto/autosound/midbasy
+117,1142,39.0,Автоэлектроника,http://e96.ru/avto/auto_electronics
+118,1186,1174.0,Крепеж для раковины,http://e96.ru/sanitary_engineering/sinks_and_wash/krepej_dlya_rakoviny
+119,499,1198.0,Моющие средства для пылесосов,http://e96.ru/household_appliances/cleaners/mojushhie_sredstva_dlja_pylesosov
+120,1287,1203.0,Картины,http://e96.ru/household_appliances/presents/kartiny
+121,1140,39.0,Автотепло,http://e96.ru/avto/auto_heat
+122,76,46.0,Встраиваемые кофемашины,http://e96.ru/built_in/kofemashiny
+123,986,685.0,Брусья,http://e96.ru/sporting_goods/trainers/brusya
+124,158,1088.0,Уровни и угломеры,http://e96.ru/tools/measuring_tools/urovni
+125,1787,1042.0,Точилки для карандашей,http://e96.ru/kids/school_goods/tochilki_dlya_karandashey
+126,606,1345.0,Стойки для телевизоров,http://e96.ru/audio_video/tv/stojjki_dlja_tv
+127,1504,1502.0,Товары для собак,http://e96.ru/zootovary/tovary_dlja_sobak
+128,119,1142.0,Антирадары,http://e96.ru/avto/auto_electronics/radar_detectory
+129,1208,16.0,Бритвы и эпиляторы,http://e96.ru/household_appliances/shaving
+130,1305,1088.0,Гигрометры (влагомеры),http://e96.ru/tools/measuring_tools/vlagomery
+131,687,685.0,Беговые дорожки,http://e96.ru/sporting_goods/trainers/begovye_dorojki
+132,497,1040.0,Кроватки для кукол,http://e96.ru/kids/dolls/krovatki_dlja_kukol
+133,868,683.0,Конькобежный спорт,http://e96.ru/sporting_goods/ice_skating
+134,1375,1010.0,Катушки для шлангов,http://e96.ru/garden_cottage/watering_equipment/katushki_dlya_shlangov
+135,970,52.0,Пульты управления,http://e96.ru/foto/photo_technics/pulty_upravleniya
+136,75,1190.0,Кондиционеры,http://e96.ru/climat/split_systems/kondicionery
+137,1460,1210.0,Заколки и расчески,http://e96.ru/household_appliances/haircare/zakolki_nevidimki_rascheski
+138,493,1142.0,Разветвители прикуривателя,http://e96.ru/avto/auto_electronics/razvetviteli_prikurivatelejj
+139,1599,1597.0,Офисные стулья IKEA,http://e96.ru/ikea/ikea_dlya_vashego_biznesa/ofisnye_stulya_ikea
+140,506,1136.0,Авто аудио кабели,http://e96.ru/avto/autosound/avto_audio_kabeli
+141,940,685.0,Эспандеры,http://e96.ru/sporting_goods/trainers/espandery
+142,595,1206.0,Новогодние ёлки,http://e96.ru/household_appliances/new_year/novogodnie_jolki
+143,220,1159.0,Комплекты спутникового телевидения,http://e96.ru/audio_video/television/sputnikovoe_televidenie
+144,172,1093.0,Сварочные аппараты,http://e96.ru/tools/power_equipment/svarochnye_apparaty
+145,1294,1007.0,Баня,http://e96.ru/garden_cottage/bath
+146,484,1086.0,Топоры,http://e96.ru/tools/hand_tools/topory
+147,496,1039.0,Детские электромобили,http://e96.ru/kids/children_transport/detskie_ehlektromobili
+148,803,802.0,Наборы для дартса,http://e96.ru/sporting_goods/darts/nabory_dlya_dartsa
+149,1240,1189.0,Тепловые завесы,http://e96.ru/climat/heating/teplovye_zavesy
+150,1542,1204.0,Видео-записки,http://e96.ru/household_appliances/homeware/video_zapiski
+151,455,1179.0,Мусорные ведра,http://e96.ru/sanitary_engineering/bathroom_accessories/musornye_vedra
+152,901,1086.0,Молотки,http://e96.ru/tools/hand_tools/molotki
+153,1231,1200.0,Бра,http://e96.ru/household_appliances/lighting/bra
+154,838,836.0,Баскетбольная форма,http://e96.ru/sporting_goods/basketball/basketbolnaya_forma
+155,314,1041.0,Роботы,http://e96.ru/kids/toys/roboty
+156,8,1156.0,Boombox,http://e96.ru/audio_video/audio/muzykalnye_centry
+157,145,1210.0,Электробигуди,http://e96.ru/household_appliances/haircare/elektrobigudi
+158,1491,1141.0,Изоляции аккумуляторной клеммы,http://e96.ru/avto/accumulators/izolyacii_akkumulyatornoy_klemmy
+159,449,1175.0,Полки для ванной комнаты,http://e96.ru/furniture/bathroom/polki_dlja_vanny
+160,516,1179.0,Жидкое мыло,http://e96.ru/sanitary_engineering/bathroom_accessories/zhidkoe_mylo
+161,222,1251.0,Фильтры для воды,http://e96.ru/kitchen_appliance/goods/filtry_dlja_vody
+162,1109,81.0,Планшетные компьютеры и аксессуары,http://e96.ru/computers/tablet_computers
+163,807,806.0,Гимнастические маты,http://e96.ru/sporting_goods/gym_and_aerobics/gimnasticheskie_maty
+164,193,1118.0,Коммутаторы,http://e96.ru/computers/network_equipment/kommutatory
+165,698,1002.0,Компасы,http://e96.ru/tourism/travel_gear/compasses
+166,1087,129.0,Бетономешалки,http://e96.ru/tools/cement_mixers
+167,1070,1003.0,Походные чайники,http://e96.ru/tourism/utensils_for_tourism/pohodnye_chayniki
+168,280,1109.0,Защитные пленки для планшетных компьютеров,http://e96.ru/computers/tablet_computers/plenki_dlja_planshetnykh_kompjuterov
+169,407,1176.0,Унитазы,http://e96.ru/sanitary_engineering/sanfayans/unitazy
+170,1223,1210.0,Многофункциональные устройства для укладки,http://e96.ru/household_appliances/haircare/mnogofunkcionalnoe_ustroystva_dlya_ukladki
+171,387,1011.0,Ведра,http://e96.ru/garden_cottage/hand_garden_tools/vedra
+172,546,1041.0,Каталки,http://e96.ru/kids/toys/katalki
+173,972,52.0,Зарядные устройства для фотокамер,http://e96.ru/foto/photo_technics/zarjadnye_ustrojjstva
+174,224,1251.0,Помпы для воды,http://e96.ru/kitchen_appliance/goods/pompy_dlja_vody
+175,792,1251.0,Настольные сушилки для посуды,http://e96.ru/kitchen_appliance/goods/nastolnye_sushilki_dlya_posudy
+176,335,1075.0,Стойки для электроинструмента,http://e96.ru/tools/prochie_instrumenty
+177,381,1037.0,Бутылочки для кормления,http://e96.ru/kids/goods_for_newborns/butylochki_dlja_kormlenija
+178,290,1212.0,Стиральные порошки,http://e96.ru/household_appliances/washing/stiralnye_poroshki
+179,1278,1345.0,Столы журнальные,http://e96.ru/furniture/living_room/stoly_jurnalnye
+180,249,1212.0,Сушилки для белья,http://e96.ru/household_appliances/washing/sushilki_dlya_belya
+181,1005,175.0,Гриль и барбекю,http://e96.ru/tourism/grills_barbecue
+182,82,1108.0,Ноутбуки,http://e96.ru/computers/laptops/noutbuki
+183,302,1109.0,Док-станции для планшетных компьютеров,http://e96.ru/computers/tablet_computers/dok_stancii_dlja_planshetnykh_kompjuterov
+184,966,52.0,Чистящие средства для фотоаппаратов,http://e96.ru/foto/photo_technics/chistjashhie_sredstva_dlja_fotoapparatov
+185,80,1249.0,Наборы посуды,http://e96.ru/kitchen_appliance/crockery/nabory_posudy
+186,1591,1502.0,Аквариумистика,http://e96.ru/zootovary/akvariumistika
+187,948,214.0,Фоторюкзаки,http://e96.ru/foto/photo_bags/fotoryukzaki
+188,916,1211.0,Маникюрные наборы,http://e96.ru/household_appliances/health_and_beauty/manikyurnye_nabory
+189,1318,1344.0,Наматрасники,http://e96.ru/furniture/bedroom/namatrasniki
+190,1520,683.0,Бильярд,http://e96.ru/sporting_goods/biljard
+191,110,48.0,Штативы,http://e96.ru/foto/tripods
+192,304,,Детские товары,http://e96.ru/kids
+193,267,1248.0,Средства для чистки кофе-машин,http://e96.ru/kitchen_appliance/tea_and_coffee/chistka_kofe_mashin
+194,1356,1175.0,Тумбы с раковиной,http://e96.ru/furniture/bathroom/tumby_umyvalniki
+195,758,1036.0,Детские настольные светильники,http://e96.ru/kids/furniture_and_accessories/detskie_nastolnye_svetilniki
+196,1020,1008.0,Лопаты для уборки снега,http://e96.ru/garden_cottage/snow_removal/lopaty_dlya_snega
+197,1892,1386.0,Купоны на установку дверей,http://e96.ru/finishes/doors/kupony_na_ustanovku_dverey
+198,1333,1017.0,Ведра-туалеты,http://e96.ru/garden_cottage/plumbing_for_garden/vedra_tualety
+199,1129,1106.0,Портативные зарядные устройства для сотовых телефонов,http://e96.ru/phones/chargers_and_batteries_for_phones/portativnye_zarjadnye_ustrojjstva
+200,1211,16.0,Красота и здоровье,http://e96.ru/household_appliances/health_and_beauty
+201,921,1143.0,Оплетки на руль,http://e96.ru/avto/auto_accessories/opletki_na_rul
+202,880,876.0,Крепления для беговых лыж,http://e96.ru/sporting_goods/skis_and_snowboards/krepleniya_dlya_begovyh_lyj
+203,1039,304.0,Детский транспорт,http://e96.ru/kids/children_transport
+204,583,1035.0,Комплекты в кроватку,http://e96.ru/kids/baby_cribs/komplekty_v_krovatku
+205,975,1345.0,Кресла,http://e96.ru/furniture/living_room/kresla
+206,361,1204.0,Машинки для удаления катышков,http://e96.ru/household_appliances/homeware/mashinki_dlja_udalenija_katyshkov
+207,684,683.0,Тяжелая атлетика,http://e96.ru/sporting_goods/weightlifting
+208,1784,1252.0,Мороженицы,http://e96.ru/kitchen_appliance/parties/morojenicy
+209,507,1138.0,Автошампунь,http://e96.ru/avto/car_wash/avtohimia
+210,164,1082.0,Заточные станки,http://e96.ru/tools/machine_tools/zatochnye_stanki
+211,788,1138.0,Насадки для автомоек,http://e96.ru/avto/car_wash/nasadki_dlya_avtomoek
+212,439,1346.0,Крючки,http://e96.ru/furniture/kitchen/krjuchki
+213,903,1086.0,Ручные пилы и лобзики,http://e96.ru/tools/hand_tools/ruchnie_pily_i_lobziki
+214,320,1113.0,Материнские платы,http://e96.ru/computers/accessories/materinskie_platy
+215,774,684.0,Гантели,http://e96.ru/sporting_goods/weightlifting/ganteli
+216,1544,1203.0,Аромалампы,http://e96.ru/household_appliances/presents/aromalampy
+217,1175,1342.0,Мебель для ванной комнаты,http://e96.ru/furniture/bathroom
+218,180,1105.0,USB-телефоны,http://e96.ru/phones/telephones_for_home_and_office/usb_telefony
+219,1210,16.0,Уход за волосами,http://e96.ru/household_appliances/haircare
+220,1119,81.0,Программное обеспечение,http://e96.ru/computers/software_is
+221,1529,1345.0,Полки для гостиной,http://e96.ru/furniture/living_room/polki_dlya_gostinoy
+222,34,1246.0,Тостеры,http://e96.ru/kitchen_appliance/small/tostery
+223,1096,1087.0,Дрели-миксеры,http://e96.ru/tools/cement_mixers/dreli_miksery
+224,1706,1591.0,Фильтры для аквариумов,http://e96.ru/zootovary/akvariumistika/filtry_dlya_akvariumov
+225,1533,1110.0,Блоки питания для мониторов,http://e96.ru/computers/accessories/bloki_pitanija_dlya_monitorov
+226,1371,1143.0,Автомобильные манометры,http://e96.ru/avto/auto_accessories/avtomobilnye_manometry
+227,1138,39.0,Автомойки и пылесосы,http://e96.ru/avto/car_wash
+228,1066,1017.0,Насосы,http://e96.ru/garden_cottage/plumbing_for_garden/nasosy
+229,1556,1246.0,Зернодробилки,http://e96.ru/kitchen_appliance/small/zernodrobilki
+230,111,1153.0,Экраны для проекторов,http://e96.ru/audio_video/projectors/ekrany_dlya_proektorov
+231,301,1196.0,Аксессуары для утюгов,http://e96.ru/household_appliances/ironing/aksessuary_dlj_utjugov
+232,1127,1105.0,VoIP-телефоны,http://e96.ru/phones/telephones_for_home_and_office/voip_telefony
+233,259,1087.0,Бетоносмесители,http://e96.ru/tools/cement_mixers/betonosmesiteli
+234,965,52.0,Фотоаппараты,http://e96.ru/foto/photo_technics/fotoapparaty
+235,132,1079.0,Шлифовальные машины,http://e96.ru/tools/grinding_equipment/shlifovalnye_mashiny
+236,354,1248.0,Держатели для капсул,http://e96.ru/household_appliances/derzhateli_dlja_kapsul
+237,1016,1007.0,Мотоблоки и культиваторы,http://e96.ru/garden_cottage/cultivators
+238,1151,1144.0,Мотоциклы,http://e96.ru/avto/mototechnics/motocikly
+239,1406,1142.0,Системы громкой связи,http://e96.ru/avto/auto_electronics/sistemy_gromkoy_svyazi
+240,306,1113.0,Звуковые карты,http://e96.ru/computers/accessories/zvukovye_karty
+241,42,1136.0,Сабвуферы,http://e96.ru/avto/autosound/sabvufery
+242,1069,1000.0,Сумки холодильники,http://e96.ru/tourism/backpacks_and_bags/sumki_holodilniki
+243,1348,1342.0,Детская,http://e96.ru/furniture/kids_room
+244,1614,1042.0,Ручки,http://e96.ru/kids/school_goods/ruchki
+245,241,1174.0,Кухонные мойки,http://e96.ru/sanitary_engineering/sinks_and_wash/kuhonnye_moyki
+246,1755,1386.0,Дверные ручки,http://e96.ru/finishes/doors/dvernye_ruchki
+247,622,1154.0,Карты подписки,http://e96.ru/audio_video/gaming_consoles/karty_podpiski
+248,1414,1113.0,Контроллеры,http://e96.ru/computers/accessories/kontrollery
+249,211,1197.0,Отпариватели,http://e96.ru/household_appliances/steamers/otparivateli
+250,551,1040.0,Игровые наборы для кукол,http://e96.ru/kids/dolls/nabory_dlja_kukol
+251,175,,Товары для туризма,http://e96.ru/tourism
+252,448,1179.0,Ершики для унитаза,http://e96.ru/sanitary_engineering/bathroom_accessories/ershiki_dlja_unitaza
+253,1289,1156.0,Домашние сабвуферы,http://e96.ru/audio_video/audio/sabvufery
+254,836,683.0,Баскетбол,http://e96.ru/sporting_goods/basketball
+255,1134,1112.0,МФУ,http://e96.ru/computers/office_equipment_and_supplies/mfu
+256,272,1109.0,Зарядные устройства для планшетных компьютеров,http://e96.ru/computers/tablet_computers/zarjadnye_ustrojjstva_dlja_planshetnykov
+257,1149,1139.0,Фары дальнего света,http://e96.ru/avto/autolights/fary_dalnego_sveta
+258,81,,Компьютеры,http://e96.ru/computers
+259,1458,1143.0,Автомобильные огнетушители,http://e96.ru/avto/auto_accessories/avtomobilnye_ognetushiteli
+260,1436,1109.0,Замки для планшетов и ноутбуков,http://e96.ru/computers/tablet_computers/zamki_dlya_planshetov
+261,1405,1211.0,Грелки,http://e96.ru/household_appliances/health_and_beauty/grelki
+262,10,1156.0,Акустика,http://e96.ru/audio_video/audio/komplekty_akustiki
+263,64,1246.0,Пароварки,http://e96.ru/kitchen_appliance/small/parovarki
+264,418,1172.0,Подголовники для ванн,http://e96.ru/sanitary_engineering/baths/podgolovniki_dlja_vann
+265,556,1084.0,Ящики для инструментов,http://e96.ru/tools/fixtures_and_equipment/yaschiki_dlya_instrumentov
+266,573,1016.0,Шнеки для мотобуров,http://e96.ru/garden_cottage/cultivators/shneki_dlya_motoburov
+267,195,1211.0,Паровые сауны для лица,http://e96.ru/household_appliances/health_and_beauty/parovye_sauny_dlya_lica
+268,1126,1105.0,Факсы,http://e96.ru/phones/telephones_for_home_and_office/faksy
+269,857,856.0,Пульсометры,http://e96.ru/sporting_goods/measuring_devices/pulsometry
+270,308,1112.0,Фотобумага для принтеров,http://e96.ru/computers/office_equipment_and_supplies/fotobumaga
+271,600,1078.0,Шины для пил,http://e96.ru/tools/chain_saws_and_shears/shiny_dlya_pil
+272,821,1001.0,Матчевые удочки,http://e96.ru/tourism/fishing/matchevye_udochki
+273,575,1036.0,Стульчики для кормления,http://e96.ru/kids/furniture_and_accessories/stulchiki_dlya_kormleniya
+274,1420,1115.0,Очки для компьютера,http://e96.ru/computers/multimedia/ochki_dlya_kompyutera
+275,1030,1005.0,Грили,http://e96.ru/tourism/grills_barbecue/grili
+276,798,1194.0,Отводы для дымохода,http://e96.ru/climat/chimneys/otvodi_dlya_dymohoda
+277,1345,1342.0,Гостиная,http://e96.ru/furniture/living_room
+278,487,1344.0,Подушки,http://e96.ru/furniture/bedroom/podushki
+279,344,1003.0,Термосы,http://e96.ru/tourism/utensils_for_tourism/termosy
+280,1143,39.0,Автоаксессуары,http://e96.ru/avto/auto_accessories
+281,298,1245.0,Поглотители запаха для холодильника,http://e96.ru/kitchen_appliance/large/poglotiteli_zapaha_dlya_holodilnika
+282,1071,1005.0,Коптильни,http://e96.ru/tourism/grills_barbecue/koptilni
+283,511,1036.0,Качели,http://e96.ru/kids/furniture_and_accessories/kacheli
+284,1113,81.0,Комплектующие для компьютеров,http://e96.ru/computers/accessories
+285,253,1075.0,Аккумуляторы для шуруповертов,http://e96.ru/tools/drills/akkumuljatory_dlja_shurupovertov
+286,278,1143.0,Автомобильные коврики,http://e96.ru/avto/auto_accessories/avto_kovriki
+287,1013,1007.0,Парники и теплицы,http://e96.ru/garden_cottage/greenhouses
+288,1118,81.0,Сетевое оборудование,http://e96.ru/computers/network_equipment
+289,897,847.0,Велошлемы,http://e96.ru/sporting_goods/cycle_racing/veloshlemy
+290,376,1039.0,Скейтборды,http://e96.ru/kids/children_transport/skejjtbordy
+291,409,1176.0,Писсуары,http://e96.ru/sanitary_engineering/sanfayans/pissuary
+292,533,1040.0,Коляски для кукол,http://e96.ru/kids/dolls/koljaski_dlja_kukol
+293,526,1045.0,Дорожные сооружения,http://e96.ru/kids/toy_trucks/dorojnye_soorujeniya
+294,904,1086.0,Пассатижи и кусачки,http://e96.ru/tools/hand_tools/passatiji_i_kusachki
+295,356,1211.0,Тонометры,http://e96.ru/household_appliances/health_and_beauty/tonometry
+296,822,1001.0,Фидерные удочки,http://e96.ru/tourism/fishing/fidernye_udochki
+297,923,1211.0,Ручные массажеры,http://e96.ru/household_appliances/health_and_beauty/ruchnye_massajery
+298,389,1083.0,Шланги для компрессоров,http://e96.ru/tools/pneumotool/shlangi_dlya_kompressora
+299,1111,81.0,Электронные книги и чехлы,http://e96.ru/computers/el_books_readers
+300,1249,24.0,Посуда,http://e96.ru/kitchen_appliance/crockery
+301,429,1175.0,Тумбы для умывальников,http://e96.ru/furniture/bathroom/tumby_dlja_umyvalnikov
+302,1393,1388.0,Обои под покраску,http://e96.ru/finishes/wallpaper/oboi_pod_pokrasku
+303,226,1195.0,Термометры,http://e96.ru/climat/measuring_climate/termometry
+304,1060,1015.0,Столы для дачи,http://e96.ru/garden_cottage/furniture_for_garden/stoly_dlya_dachi
+305,1523,1520.0,Кии,http://e96.ru/sporting_goods/biljard/kii
+306,1185,1172.0,Крепеж для монтажа ванны,http://e96.ru/sanitary_engineering/baths/krepej_dlya_montaja_vanny
+307,360,1042.0,"Школьные ранцы, сумки и рюкзаки",http://e96.ru/kids/school_goods/shkolnye_rancy
+308,1017,1007.0,Сантехника для сада,http://e96.ru/garden_cottage/plumbing_for_garden
+309,1192,1182.0,Теплый пол,http://e96.ru/climat/warm_floor
+310,446,1179.0,Держатели для фена,http://e96.ru/sanitary_engineering/bathroom_accessories/derzhateli_dlja_fena
+311,1221,1210.0,Щипцы,http://e96.ru/household_appliances/haircare/schipcy
+312,1339,847.0,Велокомпьютеры,http://e96.ru/sporting_goods/cycle_racing/velokompyutery
+313,421,1173.0,Экраны для поддонов,http://e96.ru/sanitary_engineering/shower_enclosures/ehkrany_dlja_poddonov
+314,1001,175.0,Рыбалка,http://e96.ru/tourism/fishing
+315,1000,175.0,Рюкзаки и сумки,http://e96.ru/tourism/backpacks_and_bags
+316,188,1193.0,Котлы,http://e96.ru/climat/boilers/kotly
+317,434,1144.0,Скутеры,http://e96.ru/avto/mototechnics/skutery
+318,887,806.0,Скакалки,http://e96.ru/sporting_goods/gym_and_aerobics/skakalki
+319,1340,1388.0,Декоративные обои,http://e96.ru/finishes/wallpaper/oboi
+320,61,46.0,Встраиваемые стиральные машины,http://e96.ru/built_in/stiral_nye_mashiny
+321,1297,1180.0,Счетчики воды,http://e96.ru/sanitary_engineering/water_supply/schetchik_vody
+322,601,1246.0,Сушилки для продуктов,http://e96.ru/kitchen_appliance/small/sushilki_dlja_produktov
+323,1549,1109.0,Шлейфы для планшетов,http://e96.ru/computers/tablet_computers/shleyfy_dlya_planshetov
+324,620,1370.0,Настольные часы,http://e96.ru/household_appliances/watch/nastolnye_chasy
+325,753,1014.0,Щетки для чистки бассейнов,http://e96.ru/garden_cottage/pools/schetki_dlya_chistki_basseynov
+326,1220,1210.0,Наборы для укладки,http://e96.ru/household_appliances/haircare/nabory_dlya_ukladki
+327,1023,997.0,Кресла надувные,http://e96.ru/tourism/inflatable_furniture/kresla_naduvnye
+328,351,1081.0,Ножи для электрорубанков,http://e96.ru/tools/jigsaw_and_planers/noji_dlya_rubankov
+329,87,1156.0,Микрофоны,http://e96.ru/audio_video/audio/mikrofony
+330,1435,1135.0,Системы контроля давления в шинах,http://e96.ru/avto/tires_and_wheels/sistemy_kontrolya_davleniya_v_shinah
+331,337,1039.0,Велосипеды для малышей,http://e96.ru/kids/children_transport/velosipedy_dlja_malyshejj
+332,1277,1345.0,Стеллажи для гостиной,http://e96.ru/furniture/living_room/stellaji_dlya_gostinoy
+333,1563,1088.0,Тестовые трубки,http://e96.ru/tools/measuring_tools/testovye_trubki
+334,648,1204.0,Корзины и коробки,http://e96.ru/household_appliances/homeware/korziny_i_korobki
+335,1802,1017.0,Жидкости для биотуалета,http://e96.ru/garden_cottage/plumbing_for_garden/jidkosti_dlya_biotualeta
+336,1102,1078.0,Диски для пил,http://e96.ru/tools/chain_saws_and_shears/diski_dlya_pil
+337,1128,1106.0,Автомобильные зарядные устройства для телефонов,http://e96.ru/phones/chargers_and_batteries_for_phones/avtomobilnye_zarjadnye_ustrojjstva
+338,286,1156.0,Усилители и ресиверы,http://e96.ru/audio_video/audio/usiliteli_resivery
+339,562,1037.0,Ванночки для купания,http://e96.ru/kids/goods_for_newborns/vannochki_dlja_kupanija
+340,1173,206.0,Душевые кабины и поддоны,http://e96.ru/sanitary_engineering/shower_enclosures
+341,1565,1037.0,Блокираторы для мебели,http://e96.ru/kids/goods_for_newborns/blokiratory_dlya_mebeli
+342,1044,304.0,Хобби и настольные игры,http://e96.ru/kids/hobbies
+343,1216,1199.0,Оверлоки,http://e96.ru/household_appliances/sewing/overloki
+344,935,1037.0,Детские рюкзаки переноски,http://e96.ru/kids/goods_for_newborns/detskie_ryukzaki_perenoski
+345,1081,129.0,Электролобзики и рубанки,http://e96.ru/tools/jigsaw_and_planers
+346,1088,129.0,Измерительный инструмент,http://e96.ru/tools/measuring_tools
+347,1108,81.0,Ноутбуки и аксессуары,http://e96.ru/computers/laptops
+348,12,1156.0,Магнитолы,http://e96.ru/audio_video/audio/magnitoly
+349,1244,1190.0,Внешние блоки кондиционеров,http://e96.ru/climat/split_systems/vneshnie_bloki_kondicionerov
+350,920,847.0,Велосипедные крылья,http://e96.ru/sporting_goods/cycle_racing/velosipednye_krylya
+351,1197,16.0,Отпариватели и парогенераторы,http://e96.ru/household_appliances/steamers
+352,1262,1248.0,Электросамовары,http://e96.ru/kitchen_appliance/tea_and_coffee/elektrosamovary
+353,428,1175.0,Пеналы для ванн,http://e96.ru/furniture/bathroom/penaly_dlja_vannojj
+354,106,1142.0,Камеры заднего вида,http://e96.ru/avto/auto_electronics/kamery_zadnego_vida
+355,509,1036.0,Люльки и колыбели,http://e96.ru/kids/furniture_and_accessories/lyulki_i_kolybeli
+356,1398,847.0,Купоны на сборку велосипедов,http://e96.ru/sporting_goods/cycle_racing/kupony_na_sborku_velosipedov
+357,424,1176.0,Крышки-сиденья для унитазов,http://e96.ru/sanitary_engineering/sanfayans/kryshki_sidenja_dlja_unitazov
+358,33,1250.0,Соковыжималки,http://e96.ru/kitchen_appliance/juices_and_yogurts/sokovyjimalki
+359,1351,1346.0,Тумбы для кухни,http://e96.ru/furniture/kitchen/tumby_dlya_kuhni
+360,341,1138.0,Автопылесосы,http://e96.ru/avto/car_wash/avtopylesosy
+361,333,1200.0,Настольные лампы,http://e96.ru/household_appliances/lighting/nastolnye_lampy
+362,917,1211.0,Электрические маникюрные наборы,http://e96.ru/household_appliances/health_and_beauty/elektricheskie_manikyurnye_nabory
+363,783,778.0,Наборы для настольного тенниса,http://e96.ru/sporting_goods/ping_pong/nabor_dlya_nastolnogo_tennisa
+364,943,942.0,Фоторамки,http://e96.ru/foto/photo_frames/fotoramki
+365,1310,1088.0,Дальномеры,http://e96.ru/tools/measuring_tools/dalnomery
+366,1041,304.0,Игрушки,http://e96.ru/kids/toys
+367,219,1249.0,Кастрюли,http://e96.ru/kitchen_appliance/crockery/kastryuli
+368,68,1137.0,Автосигнализации,http://e96.ru/avto/alarm/avtosignalizacii
+369,1285,1346.0,Столы обеденные,http://e96.ru/furniture/kitchen/stoly_obedennye
+370,1511,1504.0,Лежаки для собак,http://e96.ru/tovary_dlja_sobak/lezhaki_dlja_sobak
+371,464,1174.0,Трапы,http://e96.ru/sanitary_engineering/sinks_and_wash/trapy
+372,902,1086.0,Отвертки,http://e96.ru/tools/hand_tools/otvertki
+373,576,1203.0,Зажигалки,http://e96.ru/household_appliances/presents/zazhigalki
+374,1290,1191.0,Аксессуары для увлажнителей воздуха,http://e96.ru/climat/air_purifiers/aksessuary_dlya_uvlajniteley
+375,96,1116.0,Клавиатуры,http://e96.ru/computers/input_devices/klaviatury
+376,703,1004.0,Наборы для пикника,http://e96.ru/tourism/picnic_sets_and_furniture_for_camping/nabory_dlja_piknika
+377,461,1171.0,Душевые стойки,http://e96.ru/sanitary_engineering/faucets/dushevye_stojjki
+378,330,1035.0,Детские кроватки,http://e96.ru/kids/baby_cribs/detskie_krovatki
+379,1575,1571.0,Журнальные и приставные столы IKEA,http://e96.ru/ikea/gostinaya_ikea/jurnalnye_pristavnye_stoly_ikea
+380,1225,1017.0,Дачные умывальники,http://e96.ru/garden_cottage/plumbing_for_garden/dachnye_umyvalniki
+381,913,847.0,Велофонари,http://e96.ru/sporting_goods/cycle_racing/velofonari
+382,1269,1136.0,Широкополосная акустика,http://e96.ru/avto/autosound/shirokopolosnaya_akustika
+383,578,1140.0,Подогрев сидений,http://e96.ru/avto/auto_heat/obogrev_sidenijj
+384,315,1370.0,Наручные часы,http://e96.ru/household_appliances/watch/naruchnye_chasy
+385,1311,39.0,Автозапчасти,http://e96.ru/avto/auto_parts
+386,1307,1088.0,Склерометры,http://e96.ru/tools/measuring_tools/sklerometry
+387,1052,1009.0,Кусторезы,http://e96.ru/garden_cottage/lawn_care/kustorezi
+388,414,1171.0,Смесители,http://e96.ru/sanitary_engineering/faucets/smesiteli
+389,1144,39.0,Мототехника,http://e96.ru/avto/mototechnics
+390,444,1192.0,Терморегуляторы,http://e96.ru/climat/warm_floor/termoreguljatory
+391,230,1159.0,Телевизионные антенны,http://e96.ru/audio_video/television/televizionnye_antenny
+392,520,1179.0,Сушилки для рук,http://e96.ru/sanitary_engineering/bathroom_accessories/sushilki_dlya_ruk
+393,1255,1252.0,Попкорницы,http://e96.ru/kitchen_appliance/parties/popkornicy
+394,640,1141.0,Клеммы на аккумуляторы,http://e96.ru/avto/accumulators/klemmy_na_akkumulyatory
+395,702,1203.0,Зонты,http://e96.ru/household_appliances/presents/zonty
+396,1047,304.0,Сюжетно-ролевые игры,http://e96.ru/kids/pretend_play
+397,486,1086.0,Шпатели,http://e96.ru/tools/hand_tools/shpateli
+398,133,1078.0,Электропилы,http://e96.ru/tools/chain_saws_and_shears/elektropily
+399,1163,1158.0,Подставки для телевизоров,http://e96.ru/audio_video/tv/podstavki_dlya_tv
+400,70,,Подарочные сертификаты,http://e96.ru/podarochnye_sertifikaty
+401,1263,1248.0,Термопоты,http://e96.ru/kitchen_appliance/tea_and_coffee/termopoty
+402,1790,1246.0,Омлетницы,http://e96.ru/kitchen_appliance/small/omletnicy
+403,221,1249.0,Крышки,http://e96.ru/kitchen_appliance/crockery/kryshki
+404,1535,1203.0,Обложки на паспорт,http://e96.ru/household_appliances/presents/oblojki_na_pasport
+405,1158,1.0,Телевизоры и кронштейны,http://e96.ru/audio_video/tv
+406,1157,1.0,Видеоплееры,http://e96.ru/audio_video/video_players
+407,593,1249.0,Тарелки и наборы тарелок,http://e96.ru/kitchen_appliance/crockery/tarelki
+408,956,116.0,Объективы,http://e96.ru/foto/photo_optics/fotoobektivy
+409,787,765.0,Наборы для большого тенниса,http://e96.ru/sporting_goods/tennis/nabory_dlya_bolshogo_tennisa
+410,1499,1514.0,Туалетная вода для мужчин,http://e96.ru/parfjumerija/tualetnaja_voda_dlja_muzhchin
+411,824,1014.0,Картриджи для фильтр-насосов,http://e96.ru/garden_cottage/pools/kartridji_dlya_filtr_nasosov
+412,77,1139.0,Автомобильные лампы,http://e96.ru/avto/autolights/avtolampy
+413,938,1086.0,Малярные кисти,http://e96.ru/tools/hand_tools/malyarnye_kisti
+414,1498,1514.0,Парфюмерная вода для мужчин,http://e96.ru/parfjumerija/parfjumernaja_voda_dlja_muzhchin
+415,1196,16.0,Утюги и гладильные системы,http://e96.ru/household_appliances/ironing
+416,1668,1660.0,Ревизионные люки,http://e96.ru/climat/ventilation/revizionnye_lyuki
+417,100,1142.0,GPS-навигаторы,http://e96.ru/avto/auto_electronics/gps_navigatory
+418,793,683.0,"Луки, арбалеты, рогатки",http://e96.ru/sporting_goods/bows_crossbows_slingshots
+419,997,175.0,Надувная мебель,http://e96.ru/tourism/inflatable_furniture
+420,638,1041.0,Фигурки,http://e96.ru/kids/toys/figurki
+421,1279,1347.0,Столы офисные,http://e96.ru/furniture/office/stoly_ofisnye
+422,592,1249.0,Кружки и наборы кружек,http://e96.ru/kitchen_appliance/crockery/krujki
+423,62,1193.0,Boilers,http://e96.ru/climat/boilers/vodonagrevateli
+424,962,110.0,Моноподы,http://e96.ru/foto/tripods/monopody
+425,1793,1384.0,Теплоизоляция,http://e96.ru/finishes/teploizolyaciya
+426,1147,1139.0,Противотуманные фары,http://e96.ru/avto/autolights/protivotumannye_fary
+427,700,1015.0,Гамаки,http://e96.ru/garden_cottage/furniture_for_garden/gamaki
+428,749,1014.0,Ковры для бассейнов,http://e96.ru/garden_cottage/pools/kovry_dlya_basseynov
+429,1267,1154.0,Джойстики,http://e96.ru/audio_video/gaming_consoles/djoystiki
+430,1033,304.0,Детские автокресла и коляски,http://e96.ru/kids/child_car_seats_and_strollers
+431,928,1344.0,Комплекты постельного белья,http://e96.ru/furniture/bedroom/komplekty_postelnogo_belya
+432,1438,1108.0,3D фильтры для ноутбуков,http://e96.ru/computers/laptops/3d_filtry_dlya_noutbukov
+433,215,1112.0,Шредеры,http://e96.ru/computers/office_equipment_and_supplies/shredery
+434,292,1160.0,Сумки для видеокамер,http://e96.ru/audio_video/cameras/sumki_dlja_videokamer
+435,534,1037.0,Детские влажные салфетки,http://e96.ru/kids/goods_for_newborns/detskie_vlazhnye_salfetki
+436,122,1158.0,3D-очки,http://e96.ru/audio_video/tv/3d_ochki
+437,40,1136.0,Коаксиальная автоакустика,http://e96.ru/avto/autosound/koaksialnaya_avtoakustika
+438,1702,1591.0,Светильники для аквариумов,http://e96.ru/zootovary/akvariumistika/svetilniki_dlya_akvariumov
+439,295,1248.0,Капсулы для кофемашин,http://e96.ru/kitchen_appliance/tea_and_coffee/kapsuly_dlya_kofemashin
+440,1874,1246.0,Измельчители,http://e96.ru/kitchen_appliance/small/izmelchiteli
+441,28,1245.0,Газовые плиты,http://e96.ru/kitchen_appliance/large/gazovye_plity
+442,777,776.0,Футбольные мячи,http://e96.ru/sporting_goods/football/futbolnye_myachi
+443,582,1037.0,Комплекты и конверты на выписку,http://e96.ru/kids/goods_for_newborns/komplekty_i_konverty_na_vypisku
+444,1694,1591.0,Декор для аквариумов,http://e96.ru/zootovary/akvariumistika/dekor_dlya_akvariumov
+445,1022,997.0,Матрасы-кровати,http://e96.ru/tourism/inflatable_furniture/matrasy_krovaty
+446,1053,1009.0,Мини-трактора бензиновые,http://e96.ru/garden_cottage/lawn_care/mini_traktora
+447,802,683.0,Дартс,http://e96.ru/sporting_goods/darts
+448,778,683.0,Настольный теннис,http://e96.ru/sporting_goods/ping_pong
+449,1200,16.0,Освещение,http://e96.ru/household_appliances/lighting
+450,450,1179.0,Мыльницы,http://e96.ru/sanitary_engineering/bathroom_accessories/mylnicy
+451,1260,1247.0,Электрошашлычницы,http://e96.ru/kitchen_appliance/kitchen_grills/elektroshashlychnicy
+452,565,1179.0,Шторки для ванной,http://e96.ru/sanitary_engineering/bathroom_accessories/shtorki_dlja_vannojj
+453,396,1005.0,Барбекю,http://e96.ru/tourism/grills_barbecue/barbekyu
+454,1415,1104.0,Корпуса и панельки для телефонов,http://e96.ru/phones/cell_phones/korpusa_i_panelki_dlya_telefonov
+455,138,1246.0,Маринаторы,http://e96.ru/kitchen_appliance/small/marinatory
+456,554,1041.0,Мячи,http://e96.ru/kids/toys/mjachi
+457,168,1119.0,Антивирусы,http://e96.ru/computers/software_is/antivirusy
+458,1461,1203.0,Каски с подставками,http://e96.ru/household_appliances/presents/kaski_s_podstavkami
+459,1162,1153.0,Кронштейны для проекторов,http://e96.ru/audio_video/projectors/kronshteyny_dlya_proektorov
+460,399,1015.0,Шезлонги,http://e96.ru/garden_cottage/furniture_for_garden/shezlongi
+461,722,1348.0,Парты и письменные столы,http://e96.ru/furniture/kids_room/party_stoly
+462,116,48.0,Фотооптика,http://e96.ru/foto/photo_optics
+463,427,1175.0,Зеркала для ванных комнат,http://e96.ru/furniture/bathroom/zerkala_dlja_vanny
+464,1261,1246.0,Мини-печи,http://e96.ru/kitchen_appliance/small/mini_pechi
+465,1046,304.0,Игрушки на дистанционном управлении,http://e96.ru/kids/toys_on_remote_control
+466,41,1136.0,Автомобильные усилители,http://e96.ru/avto/autosound/avtomobilnye_usiliteli
+467,584,1035.0,Детские матрасы,http://e96.ru/kids/baby_cribs/detskie_matrasy
+468,430,1175.0,Зеркала-шкафы,http://e96.ru/furniture/bathroom/zerkala_shkafy
+469,1541,1115.0,Компьютерные TV-тюнеры,http://e96.ru/computers/multimedia/kompyuternye_tv_tyunery
+470,968,52.0,Аккумуляторы и батарейные блоки,http://e96.ru/foto/photo_technics/batareinie_bloky
+471,988,998.0,Аксессуары для лодок,http://e96.ru/tourism/boats_and_motors/aksessuary_dlya_lodok
+472,350,1082.0,Фрезы для фрезерных станков,http://e96.ru/tools/machine_tools/frezy_dlya_frezernyh_stankov
+473,1690,1591.0,Грунты для аквариумов,http://e96.ru/zootovary/akvariumistika/grunty_dlya_akvariumov
+474,1139,39.0,Автосвет,http://e96.ru/avto/autolights
+475,780,779.0,Очки для плавания,http://e96.ru/sporting_goods/swimming/ochki_dlya_plavaniya
+476,1386,1384.0,Двери и фурнитура,http://e96.ru/finishes/doors
+477,704,999.0,Прицелы,http://e96.ru/tourism/optical_devices/pricely_dlya_karabinov
+478,1355,1160.0,Экшн-камеры,http://e96.ru/audio_video/cameras/ekshn_kamery
+479,102,1189.0,Тепловентиляторы,http://e96.ru/climat/heating/teploventilyatory
+480,97,1116.0,Мыши,http://e96.ru/computers/input_devices/myshi
+481,1330,1348.0,Стеллажи для детской,http://e96.ru/furniture/kids_room/stellaji_dlya_detskoy
+482,845,683.0,Страйкбол,http://e96.ru/sporting_goods/strikeball
+483,1165,1154.0,Портативные игровые приставки,http://e96.ru/audio_video/gaming_consoles/portativnye_igrovye_pristavki
+484,1904,1900.0,Раковины IKEA,http://e96.ru/ikea/vannaya_ikea/rakoviny_ikea
+485,55,46.0,Комплекты встраиваемой техники,http://e96.ru/built_in/komplekty
+486,1243,1190.0,Внутренние блоки кондиционеров,http://e96.ru/climat/split_systems/vnutrennie_bloki_kondicionerov
+487,255,1105.0,SIP-телефоны,http://e96.ru/phones/telephones_for_home_and_office/sip_telefony
+488,170,1107.0,Bluetooth-гарнитуры,http://e96.ru/phones/headset_mobile_phones/blutus_garnitury
+489,103,1115.0,Компьютерная акустика,http://e96.ru/computers/multimedia/kompyuternaya_akustika
+490,934,1086.0,Динамометрические ключи,http://e96.ru/tools/hand_tools/dinamometricheskie_klyuchi
+491,1332,1348.0,Комоды для детской,http://e96.ru/furniture/kids_room/komody_dlya_detskoy
+492,922,1088.0,Рулетки,http://e96.ru/tools/measuring_tools/ruletki
+493,173,1251.0,Кухонные весы,http://e96.ru/kitchen_appliance/goods/kukhonnye_vesy
+494,1598,1597.0,Письменные и компьютерные столы IKEA,http://e96.ru/ikea/ikea_dlya_vashego_biznesa/pismennye_i_kompyuternye_stoly_ikea
+495,1115,81.0,Мультимедиа,http://e96.ru/computers/multimedia
+496,502,1171.0,Держатели для душа,http://e96.ru/sanitary_engineering/faucets/derzhateli_dlja_dusha
+497,404,1178.0,Полотенцесушители,http://e96.ru/sanitary_engineering/towel_warmers/polotencesushiteli
+498,980,1083.0,Краскопульты,http://e96.ru/tools/pneumotool/kraskopulty
+499,734,1175.0,Подвесные шкафы для ванн,http://e96.ru/furniture/bathroom/podvesnye_shkafy_dlya_vann
+500,723,1036.0,Детские стулья,http://e96.ru/kids/furniture_and_accessories/detskie_stulya
+501,688,685.0,Велотренажеры,http://e96.ru/sporting_goods/trainers/velotrenajery
+502,327,1002.0,Палатки,http://e96.ru/tourism/travel_gear/palatki
+503,1049,1342.0,Купоны на сборку мебели,http://e96.ru/furniture/sborka_mebeli
+504,30,1248.0,Кофеварки,http://e96.ru/kitchen_appliance/tea_and_coffee/kofevarki
+505,1273,1136.0,Корпусная автоакустика,http://e96.ru/avto/autosound/korpusnaya_avtoakustika
+506,1907,1900.0,Зеркала для ванной IKEA,http://e96.ru/ikea/vannaya_ikea/zerkala_dlya_vannoy_ikea
+507,108,1247.0,Аэрогрили,http://e96.ru/kitchen_appliance/kitchen_grills/aehrogrili
+508,931,1344.0,Пледы и покрывала,http://e96.ru/furniture/bedroom/pledy_pokryvala
+509,828,689.0,Механические мишени,http://e96.ru/sporting_goods/airguns/mehanicheskie_misheni
+510,756,1014.0,Фильтр-насосы для бассейнов,http://e96.ru/garden_cottage/pools/filtr_nasosy_dlya_basseynov
+511,345,1044.0,Настольные игры,http://e96.ru/kids/hobbies/nastolnye_igry
+512,711,999.0,Телескопы,http://e96.ru/tourism/optical_devices/teleskopy
+513,1578,1577.0,Матрасы IKEA,http://e96.ru/ikea/spalnya_ikea/matrasy_ikea
+514,1829,1201.0,Розетки на дистанционном управлении,http://e96.ru/household_appliances/electrics/rozetki_na_distancionnom_upravlenii
+515,1188,1172.0,Душевые ограждения для ванн,http://e96.ru/sanitary_engineering/baths/dushevye_ograzhdenija_dlja_vann
+516,858,847.0,Велосипедные насосы,http://e96.ru/sporting_goods/cycle_racing/velosipednye_nasosy
+517,1191,1182.0,Увлажнители и очистители воздуха,http://e96.ru/climat/air_purifiers
+518,775,684.0,Утяжелители,http://e96.ru/sporting_goods/weightlifting/utyajeliteli
+519,1338,1203.0,Наборы для покера,http://e96.ru/household_appliances/presents/nabory_dlya_pokera
+520,152,1114.0,Источники бесперебойного питания,http://e96.ru/computers/power_protection_devices/istochniki_bespereboynogo_pitaniya
+521,591,1249.0,Сервизы,http://e96.ru/kitchen_appliance/crockery/servizy
+522,1514,,Парфюмерия,http://e96.ru/parfjumerija
+523,603,1198.0,Запчасти для роботов-пылесосов,http://e96.ru/household_appliances/cleaners/zapchasti_dlja_robotov_pylesosov
+524,1019,1013.0,Теплицы,http://e96.ru/garden_cottage/greenhouses/teplicy
+525,166,1158.0,3D-передатчики,http://e96.ru/audio_video/tv/3d_peredatchiki
+526,795,793.0,Арбалеты,http://e96.ru/sporting_goods/bows_crossbows_slingshots/arbalety
+527,268,1245.0,Средства для посудомоечных машин,http://e96.ru/kitchen_appliance/large/sredstva_dlya_posudomoechnyh_mashin
+528,1449,1158.0,Гальванические развязки,http://e96.ru/audio_video/tv/galvanicheskie_razvyazki
+529,823,1001.0,Поплавочные удочки,http://e96.ru/tourism/fishing/poplavochnye_udochki
+530,282,1112.0,Картриджи для принтеров и МФУ,http://e96.ru/computers/office_equipment_and_supplies/kartridzhi_dlja_printerov
+531,1580,1577.0,Реечные днища IKEA,http://e96.ru/ikea/spalnya_ikea/reechnye_dnischa_ikea
+532,205,1142.0,Алкотестеры,http://e96.ru/avto/auto_electronics/alkotestery
+533,567,1037.0,Сиденья для купания,http://e96.ru/kids/goods_for_newborns/siden_ja_dlja_kupanija
+534,1172,206.0,Ванны и фурнитура,http://e96.ru/sanitary_engineering/baths
+535,1314,1196.0,Гладильные системы,http://e96.ru/household_appliances/ironing/gladilnye_sistemy
+536,1482,1211.0,Ультрафиолетовые кварцевые облучатели,http://e96.ru/household_appliances/health_and_beauty/ultrafioletovye_kvarcevye_obluchateli
+537,635,1181.0,Купоны на установку сантехники,http://e96.ru/sanitary_engineering/plumbing_fitting/kupony_santehniki
+538,1076,129.0,Ударный инструмент,http://e96.ru/tools/hammers
+539,1316,1315.0,Моторные масла,http://e96.ru/avto/car_oil/motornye_masla
+540,1236,1192.0,Подогреваемые коврики,http://e96.ru/climat/warm_floor/podogrevaemye_kovriki
+541,1646,876.0,Горнолыжные маски,http://e96.ru/sporting_goods/skis_and_snowboards/gornolyjnye_maski
+542,1521,1520.0,Бильярдные столы,http://e96.ru/sporting_goods/biljard/biljardnye_stoly
+543,1084,129.0,Приспособления и оснастка,http://e96.ru/tools/fixtures_and_equipment
+544,1168,1154.0,Игры для PC,http://e96.ru/audio_video/gaming_consoles/igry_dlya_pc
+545,438,1196.0,Чехлы для гладильных досок,http://e96.ru/household_appliances/ironing/chekhli_dlja_gladilnykh_dosok
+546,266,1248.0,Кофемашины,http://e96.ru/kitchen_appliance/tea_and_coffee/kofemashiny
+547,1898,1211.0,Электрические роликовые пилки,http://e96.ru/household_appliances/health_and_beauty/elektricheskie_rolikovye_pilki
+548,1370,16.0,Часы,http://e96.ru/household_appliances/watch
+549,402,1173.0,Душевые кабины,http://e96.ru/sanitary_engineering/shower_enclosures/dushevye_kabiny
+550,6,1155.0,Headphones,http://e96.ru/audio_video/music_players/naushniki
+551,406,1011.0,Садовые тачки,http://e96.ru/garden_cottage/hand_garden_tools/tachki
+552,375,1155.0,Чехлы для MP3-плееров,http://e96.ru/audio_video/music_players/chehly_dlya_mp3_pleerov
+553,519,1041.0,Заводные игрушки,http://e96.ru/kids/toys/zavodnye_igrushki
+554,555,1153.0,Интерактивные доски,http://e96.ru/audio_video/projectors/interaktivnye_doski
+555,1481,1076.0,Патроны для перфораторов,http://e96.ru/tools/hammers/patrony_dlya_perforatorov
+556,1505,1503.0,Наполнители для туалетов,http://e96.ru/tovary_dlja_koshek/napolniteli_dlja_tualetov
+557,386,1011.0,Лопаты,http://e96.ru/garden_cottage/hand_garden_tools/lopaty
+558,288,1198.0,Роботы-пылесосы,http://e96.ru/household_appliances/cleaners/roboty_pylesosy
+559,1551,1246.0,Аксессуары для мясорубки,http://e96.ru/kitchen_appliance/small/aksessuary_dlya_myasorubki
+560,452,847.0,Велосипедные камеры,http://e96.ru/sporting_goods/cycle_racing/velosipednye_kamery
+561,1183,1177.0,Крепеж для систем инсталляции,http://e96.ru/sanitary_engineering/installation_systems/krepej_dlya_sistem_installyacii
+562,194,1093.0,Генераторы,http://e96.ru/tools/power_equipment/generatory
+563,490,1116.0,Коврики для мыши,http://e96.ru/computers/input_devices/kovriki_dlja_myshi
+564,877,876.0,Беговые лыжи,http://e96.ru/sporting_goods/skis_and_snowboards/begovye_lyji
+565,325,1200.0,Лампы,http://e96.ru/household_appliances/lighting/lampy
+566,1455,1203.0,Солнцезащитные очки,http://e96.ru/household_appliances/presents/solncezaschitnye_ochki
+567,398,1015.0,Тенты и шатры,http://e96.ru/garden_cottage/furniture_for_garden/tenty_i_shatry
+568,572,1016.0,Мотобуры,http://e96.ru/garden_cottage/cultivators/motobury
+569,44,1142.0,Автомониторы,http://e96.ru/avto/auto_electronics/avtomonitiry
+570,1107,73.0,Гарнитуры для сотовых телефонов,http://e96.ru/phones/headset_mobile_phones
+571,1206,16.0,Новогодние украшения,http://e96.ru/household_appliances/new_year
+572,1099,1078.0,Сабельные пилы,http://e96.ru/tools/chain_saws_and_shears/sabelnye_pily
+573,837,836.0,Баскетбольные мячи,http://e96.ru/sporting_goods/basketball/basketbolnyy_myach
+574,1510,1503.0,Лежанки для кошек,http://e96.ru/tovary_dlja_koshek/lezhanki_dlja_koshek
+575,552,1040.0,Одежда для кукол,http://e96.ru/kids/dolls/odezhda_dlja_kukol
+576,370,1041.0,Игрушечное оружие,http://e96.ru/kids/toys/igrushechnoe_oruzhie
+577,1204,16.0,Домашние товары,http://e96.ru/household_appliances/homeware
+578,48,,Фото товары,http://e96.ru/foto
+579,1274,1136.0,Компонентная автоакустика,http://e96.ru/avto/autosound/komponentnaya_avtoakustika
+580,933,1086.0,Трещотки и воротки,http://e96.ru/tools/hand_tools/treschotki_vorotki
+581,1166,1154.0,Игры для Xbox,http://e96.ru/audio_video/gaming_consoles/igry_dlya_xbox
+582,1101,1078.0,Полотна для сабельных пил,http://e96.ru/tools/chain_saws_and_shears/polotna_dlya_sabelnyh_pil
+583,840,839.0,Волейбольная форма,http://e96.ru/sporting_goods/volleyball/voleybolnaya_forma
+584,23,1211.0,Весы,http://e96.ru/household_appliances/health_and_beauty/vesy
+585,1799,1344.0,Простыни,http://e96.ru/furniture/bedroom/prostyni
+586,382,1037.0,Молокоотсосы,http://e96.ru/kids/goods_for_newborns/molokootsosy
+587,1660,1182.0,Вентиляция,http://e96.ru/climat/ventilation
+588,318,1113.0,Кулеры и системы охлаждения,http://e96.ru/computers/accessories/kulery_i_sistemy_okhlazhdenija
+589,342,1039.0,Самокаты,http://e96.ru/kids/children_transport/samokaty
+590,1559,806.0,Палки для ходьбы,http://e96.ru/sporting_goods/gym_and_aerobics/palki_dlya_hodby
+591,893,684.0,Блины,http://e96.ru/sporting_goods/weightlifting/blini
+592,4,1157.0,DVD players,http://e96.ru/audio_video/video_players/dvdpleery
+593,300,1212.0,Аксессуары для стиральных машин,http://e96.ru/household_appliances/washing/aksessuary_dlya_stiralnyh_mashin
+594,1215,1209.0,Ирригаторы,http://e96.ru/household_appliances/toothbrushes/irrigatory
+595,1360,1252.0,Хотдог мейкеры,http://e96.ru/kitchen_appliance/parties/hotdog_meyker
+596,252,999.0,Бинокли,http://e96.ru/tourism/optical_devices/binokly
+597,332,1347.0,Компьютерные кресла,http://e96.ru/furniture/office/kompyuternye_kresla
+598,137,1142.0,Парктроники,http://e96.ru/avto/auto_electronics/parktroniki
+599,633,1190.0,Кронштейны для кондиционеров,http://e96.ru/climat/split_systems/kronshtejny_dlja_kondicionerov
+600,475,1251.0,Сифоны для газирования воды,http://e96.ru/kitchen_appliance/goods/sifony_dlja_gazirovanija_vody
+601,159,1037.0,Радио- и видеоняни,http://e96.ru/kids/goods_for_newborns/radio_i_videonyani
+602,35,1246.0,Миксеры,http://e96.ru/kitchen_appliance/small/miksery
+603,1518,1348.0,Детские компьютерные кресла,http://e96.ru/furniture/kids_room/detskie_kompjuternye_kresla
+604,274,1158.0,Пульты для телевизоров,http://e96.ru/audio_video/tv/pulty_dlya_televizorov
+605,1838,1104.0,Палки для селфи,http://e96.ru/phones/cell_phones/palki_dlya_selfi
+606,623,1038.0,Детские спортивные комплексы,http://e96.ru/kids/baby_complexes/detskie_sportivnye_kompleksy
+607,1862,1160.0,Чехлы для экшн-камер,http://e96.ru/audio_video/cameras/chehly_dlya_ekshn_kamer
+608,1264,1248.0,Турки,http://e96.ru/kitchen_appliance/tea_and_coffee/turki
+609,725,1036.0,Ящики и корзины для игрушек,http://e96.ru/kids/furniture_and_accessories/jashhiki_i_korziny_dlja_igrushek
+610,378,1037.0,Пустышки и соски,http://e96.ru/kids/goods_for_newborns/soski_i_pustyshki
+611,85,1246.0,Фритюрницы,http://e96.ru/kitchen_appliance/small/frityurnicy
+612,1363,1344.0,Тумбы для спальни,http://e96.ru/furniture/bedroom/tumby_dlya_spalni
+613,1547,1346.0,Фартуки для кухни,http://e96.ru/furniture/kitchen/fartuki_dlya_kuhni
+614,1465,1203.0,Ключницы,http://e96.ru/household_appliances/presents/klyuchnicy
+615,236,1195.0,Метеостанции,http://e96.ru/climat/measuring_climate/meteostancii
+616,1767,1504.0,Миски для собак,http://e96.ru/zootovary/tovary_dlja_sobak/miski_dlya_sobak
+617,915,847.0,Велосипедные втулки,http://e96.ru/sporting_goods/cycle_racing/velosipednye_vtulki
+618,410,1176.0,Биде,http://e96.ru/sanitary_engineering/sanfayans/bide
+619,214,48.0,Фотосумки,http://e96.ru/foto/photo_bags
+620,1217,1197.0,Парогенераторы,http://e96.ru/household_appliances/steamers/parogeneratory
+621,498,1190.0,Декоративные панели для сплит-систем,http://e96.ru/climat/split_systems/dekorativnye_paneli_dlja_split_sistem
+622,416,1172.0,Ручки для ванн,http://e96.ru/sanitary_engineering/baths/ruchki_dlja_vann
+623,1404,1203.0,Сувениры-бары,http://e96.ru/household_appliances/presents/suveniry_bary
+624,1488,847.0,Детские велокресла,http://e96.ru/sporting_goods/cycle_racing/detskie_velokresla
+625,587,1251.0,Хранение продуктов,http://e96.ru/kitchen_appliance/goods/kontejjnery
+626,179,1136.0,FM-трансмиттеры,http://e96.ru/avto/autosound/fm_transmittery
+627,339,1118.0,Сетевые карты,http://e96.ru/computers/network_equipment/setevye_karty
+628,1171,206.0,Смесители и лейки,http://e96.ru/sanitary_engineering/faucets
+629,120,1157.0,Медиаплееры,http://e96.ru/audio_video/video_players/mediapleery
+630,388,1011.0,Грабли,http://e96.ru/tools/grabli
+631,957,48.0,Фотосвет,http://e96.ru/foto/photo_light
+632,1057,1014.0,Складные бассейны,http://e96.ru/garden_cottage/pools/skladnye_basseyny
+633,1003,175.0,Посуда для туризма,http://e96.ru/tourism/utensils_for_tourism
+634,1280,1347.0,Компьютерные столы,http://e96.ru/furniture/office/stoly_kompyuternye
+635,1473,1118.0,PoE инжекторы,http://e96.ru/computers/network_equipment/poe_injektori
+636,210,1245.0,Кулеры для воды,http://e96.ru/kitchen_appliance/large/kulery_dlya_vody
+637,1180,206.0,Водоснабжение,http://e96.ru/sanitary_engineering/water_supply
+638,1239,1191.0,Увлажнители воздуха,http://e96.ru/climat/air_purifiers/uvlajniteli_vozduha
+639,141,1113.0,Картридеры,http://e96.ru/computers/accessories/cartridery
+640,625,1038.0,Веревочные лестницы,http://e96.ru/kids/baby_complexes/verevochnye_lestnicy
+641,453,1178.0,Полотенцедержатели,http://e96.ru/sanitary_engineering/towel_warmers/polotencederzhateli
+642,529,1047.0,Наборы сюжетно-ролевых игр,http://e96.ru/kids/pretend_play/sjuzhetno_rolevye_igry
+643,1094,1075.0,Шуруповерты,http://e96.ru/tools/drills/shurupoverty
+644,1362,1347.0,Шкафы для офиса,http://e96.ru/furniture/office/shkafy_dlya_ofisa
+645,571,1249.0,Кухонные ножи и ножницы,http://e96.ru/kitchen_appliance/crockery/kuhonnye_noji
+646,1177,206.0,Инсталляции,http://e96.ru/sanitary_engineering/installation_systems
+647,1193,1182.0,Котлы и водонагреватели,http://e96.ru/climat/boilers
+648,1141,39.0,Аккумуляторы и зарядные устройства,http://e96.ru/avto/accumulators
+649,1723,1715.0,Матрасы для детских кроваток IKEA,http://e96.ru/ikea/detskaya_ikea/matrasy_dlya_detskih_krovatok_ikea
+650,699,1004.0,Мебель для кемпинга,http://e96.ru/tourism/picnic_sets_and_furniture_for_camping/mebel_dlya_kempinga
+651,324,1033.0,Strollers,http://e96.ru/kids/child_car_seats_and_strollers/kolasky
+652,791,776.0,Футбольная форма,http://e96.ru/sporting_goods/football/futbolnaya_forma
+653,69,1156.0,Кабели,http://e96.ru/audio_video/audio/kabeli
+654,305,1113.0,Оперативная память,http://e96.ru/computers/accessories/operativnaja_pamjat
+655,1159,1.0,Цифровое и спутниковое ТВ,http://e96.ru/audio_video/television
+656,1093,129.0,Силовое оборудование,http://e96.ru/tools/power_equipment
+657,1154,1.0,Игровые приставки и игры,http://e96.ru/audio_video/gaming_consoles
+658,423,1174.0,Пьедесталы,http://e96.ru/sanitary_engineering/sinks_and_wash/pedestaly
+659,678,1245.0,Диспенсеры для воды,http://e96.ru/kitchen_appliance/large/dispensery_dlya_vody
+660,1078,129.0,Режущий электроинструмент,http://e96.ru/tools/chain_saws_and_shears
+661,1098,1078.0,Бензопилы,http://e96.ru/tools/chain_saws_and_shears/benzopily
+662,856,683.0,Измерительные устройства,http://e96.ru/sporting_goods/measuring_devices
+663,1610,1110.0,Калибраторы,http://e96.ru/computers/pc/kalibratory
+664,549,1043.0,Развивающие игрушки,http://e96.ru/kids/educational_games/razvivajushhie_igrushki
+665,708,1000.0,Чемоданы,http://e96.ru/tourism/backpacks_and_bags/chemodany
+666,605,1246.0,Кронштейны для микроволновых печей,http://e96.ru/kitchen_appliance/small/kronshtejjny_dlja_mikrovolnovykh_pechejj
+667,494,1212.0,Центрифуги,http://e96.ru/household_appliances/washing/centrifugi
+668,553,1037.0,Детские весы,http://e96.ru/kids/goods_for_newborns/vesy_detskie
+669,1922,1179.0,Наборы аксессуаров для ванной комнаты,http://e96.ru/sanitary_engineering/bathroom_accessories/nabory_aksessuarov_dlja_vannoj_komnaty
+670,1516,1515.0,Гироскутеры,http://e96.ru/sporting_goods/girocikly/giroskutery
+671,954,116.0,Светофильтры,http://e96.ru/foto/photo_optics/svetofiltry
+672,31,1246.0,Блендеры,http://e96.ru/kitchen_appliance/small/blendery
+673,1250,24.0,Соки и йогурты,http://e96.ru/kitchen_appliance/juices_and_yogurts
+674,1194,1182.0,Дымоходы,http://e96.ru/climat/chimneys
+675,1443,1203.0,Подарочные пакеты,http://e96.ru/household_appliances/presents/podarochnye_pakety
+676,1343,1342.0,Прихожая,http://e96.ru/furniture/hallway
+677,1909,1660.0,Воздуховоды,http://e96.ru/climat/ventilation/vozduhovody
+678,1181,206.0,Установка сантехники,http://e96.ru/sanitary_engineering/plumbing_fitting
+679,88,1210.0,Машинки для стрижки,http://e96.ru/household_appliances/haircare/mashinki_dlya_strijki
+680,408,1174.0,Раковины и умывальники,http://e96.ru/sanitary_engineering/sinks_and_wash/umyvalniki
+681,1366,1087.0,Насадки для дрелей-миксеров,http://e96.ru/tools/cement_mixers/nasadki
+682,527,1041.0,Мыльные пузыри,http://e96.ru/kids/toys/myl_nye_puzyri
+683,322,1140.0,Автомобильные одеяла,http://e96.ru/avto/auto_heat/avtomobilnye_odeyala
+684,1485,1105.0,Модули расширения для VoIP оборудования,http://e96.ru/phones/telephones_for_home_and_office/moduli_rasshireniya_dlya_voip_oborudovaniya
+685,646,1015.0,Наборы мебели для дачи,http://e96.ru/garden_cottage/furniture_for_garden/nabory_mebeli_dlya_dachi
+686,247,46.0,Встраиваемые пароварки,http://e96.ru/built_in/steamers
+687,397,1002.0,Спальники,http://e96.ru/tourism/travel_gear/spalniki
+688,1468,1158.0,Генераторы для тестирования и настройки аудиооборудования,http://e96.ru/audio_video/tv/generatory_dlya_testirovaniya_i_nastroyki_audiooborudovaniya
+689,914,1086.0,Гаечные ключи,http://e96.ru/tools/hand_tools/gaechnye_klyuchi
+690,1577,1570.0,Спальня IKEA,http://e96.ru/ikea/spalnya_ikea
+691,1582,1577.0,Комоды IKEA,http://e96.ru/ikea/spalnya_ikea/komody_ikea
+692,1252,24.0,Техника для вечеринок,http://e96.ru/kitchen_appliance/parties
+693,1358,1086.0,Киянки,http://e96.ru/tools/hand_tools/kiyanki
+694,683,,Спортивные товары,http://e96.ru/sporting_goods
+695,863,1036.0,Детские магнитно маркерные доски,http://e96.ru/kids/furniture_and_accessories/detskie_magnitno_markernye_doski
+696,974,868.0,Комбинированные коньки,http://e96.ru/sporting_goods/ice_skating/kombinirovannye_konki
+697,1902,1900.0,Хранение в ванной IKEA,http://e96.ru/ikea/vannaya_ikea/hranenie_v_vannoy_ikea
+698,813,689.0,Пули для пневматики,http://e96.ru/sporting_goods/airguns/puli_dlya_pnevmatiki
+699,1557,1503.0,Игрушки для кошек,http://e96.ru/zootovary/tovary_dlja_koshek/igrushki_dlya_koshek
+700,1472,1104.0,Генераторы помех,http://e96.ru/phones/cell_phones/generator_pomeh
+701,197,1247.0,Электрические грили,http://e96.ru/kitchen_appliance/kitchen_grills/electricheskie_grili
+702,1377,1386.0,Двери входные,http://e96.ru/finishes/doors/dveri_vhodnye
+703,1820,1345.0,Подставки для цветов,http://e96.ru/furniture/living_room/podstavki_dlya_cvetov
+704,84,1191.0,Очиститель-увлажнители воздуха,http://e96.ru/climat/air_purifiers/ochistitel_uvlajniteli_vozduha
+705,1312,1311.0,Амортизаторы,http://e96.ru/avto/auto_parts/amortizatory
+706,1006,175.0,"Насосы для матрасов, бассейнов и лодок",http://e96.ru/tourism/pumps_for_inflatable_products
+707,590,1249.0,Посуда для сервировки,http://e96.ru/kitchen_appliance/crockery/posuda_dlya_servirovki
+708,1281,1346.0,Стулья,http://e96.ru/furniture/kitchen/stulja_dlya_kuhni
+709,1601,1343.0,Галошницы,http://e96.ru/furniture/hallway/galoshnicy
+710,47,46.0,Hoods,http://e96.ru/built_in/hoods
+711,876,683.0,Сноуборды и горнолыжный спорт,http://e96.ru/sporting_goods/skis_and_snowboards
+712,557,1037.0,Детские горшки,http://e96.ru/kids/goods_for_newborns/detskie_gorshki
+713,165,1082.0,Фрезерные станки,http://e96.ru/tools/machine_tools/frezernye_stanki
+714,609,1141.0,Автомобильные аккумуляторы,http://e96.ru/avto/accumulators/akkumuljatory
+715,586,1249.0,Посуда для выпечки,http://e96.ru/kitchen_appliance/crockery/posuda_dlya_vypechki
+716,1124,1117.0,Внешние жесткие диски,http://e96.ru/computers/recording_media/vneshnie_jestkie_diski
+717,289,1120.0,Серверы,http://e96.ru/computers/servers/servery
+718,1266,1079.0,Ленты для шлифовальных машин,http://e96.ru/tools/grinding_equipment/lenty_dlya_shlifovalnyh_mashin
+719,353,1204.0,Швабры,http://e96.ru/household_appliances/homeware/shvabry
+720,1347,1342.0,Мебель для офиса,http://e96.ru/furniture/office
+721,685,683.0,Тренажеры,http://e96.ru/sporting_goods/trainers
+722,1817,1156.0,Акустические гитары,http://e96.ru/audio_video/audio/akusticheskie_gitary
+723,491,1211.0,Ингаляторы,http://e96.ru/household_appliances/health_and_beauty/ingalyatory
+724,1727,1715.0,Кровати для детей IKEA,http://e96.ru/ikea/detskaya_ikea/krovati_dlya_detey_ikea
+725,1588,1586.0,Стулья для столовой IKEA,http://e96.ru/ikea/stolovaya_ikea/stulya_dlya_stolovoy_ikea
+726,1008,1007.0,Уборка снега,http://e96.ru/garden_cottage/snow_removal
+727,1349,1348.0,Детские кровати,http://e96.ru/furniture/kids_room/detskie_krovati
+728,492,1084.0,Масла и смазки,http://e96.ru/tools/fixtures_and_equipment/masla_i_smazki
+729,1596,1586.0,Решения IKEA для хранения в столовой,http://e96.ru/ikea/stolovaya_ikea/resheniya_ikea_dlya_hraneniya_v_stolovoy
+730,1865,1160.0,Палки для экшн-камер,http://e96.ru/audio_video/cameras/palki_dlya_ekshn_kamer
+731,977,1345.0,Комплекты мягкой мебели,http://e96.ru/furniture/living_room/komplekty_myagkoy_mebeli
+732,1150,1139.0,Габаритные огни,http://e96.ru/avto/autolights/gabaritnye_ogni
+733,790,1112.0,3D Принтеры,http://e96.ru/computers/office_equipment_and_supplies/3d_printery
+734,865,1017.0,Биотуалеты жидкостные,http://e96.ru/garden_cottage/plumbing_for_garden/biotualety_jidkostnye
+735,604,1345.0,Тумбы под телевизор,http://e96.ru/audio_video/tv/tumby_dlya_televizorov
+736,142,1250.0,Йогуртницы,http://e96.ru/kitchen_appliance/juices_and_yogurts/jjogurtnicy
+737,789,1138.0,Шланги для автомоек,http://e96.ru/avto/car_wash/shlangi_dlya_avtomoek
+738,1131,1110.0,Кронштейны для мониторов,http://e96.ru/computers/pc/kronshteyny_dlya_monitorov
+739,694,998.0,Спасательные жилеты,http://e96.ru/tourism/boats_and_motors/spasatelnye_jilety
+740,835,689.0,Баллончики CO2,http://e96.ru/sporting_goods/airguns/ballonchiki_co2
+741,52,48.0,Фототехника,http://e96.ru/foto/photo_technics
+742,1597,1570.0,IKEA для вашего бизнеса,http://e96.ru/ikea/ikea_dlya_vashego_biznesa
+743,265,1158.0,LFD-панели,http://e96.ru/audio_video/tv/lfd_paneli
+744,1480,1109.0,Подставки для планшетов,http://e96.ru/computers/tablet_computers/podstavki_dlya_planshetov
+745,969,52.0,Батарейки,http://e96.ru/foto/photo_technics/batarejjki
+746,1538,1120.0,Комплектующие для серверов,http://e96.ru/computers/servers/komplektuyuschie_dlya_serverov
+747,1122,1119.0,Офисные программы,http://e96.ru/computers/software_is/ofisnye_programmy
+748,1136,39.0,Автозвук,http://e96.ru/avto/autosound
+749,160,1110.0,Моноблоки,http://e96.ru/computers/pc/monobloki
+750,294,1156.0,Портативная акустика,http://e96.ru/audio_video/audio/portativnaya_akustika
+751,391,1002.0,Туристические коврики,http://e96.ru/tourism/travel_gear/turisticheskie_kovriki
+752,254,1086.0,Наборы инструментов,http://e96.ru/tools/hand_tools/nabory_instrumentov
+753,874,871.0,Клюшки,http://e96.ru/sporting_goods/hockey/klyushki
+754,229,1137.0,GSM и GPS системы охраны,http://e96.ru/avto/alarm/gsm_gsp_sistemy_ohrany
+755,260,1154.0,Игровые аксессуары,http://e96.ru/audio_video/gaming_consoles/igrovye_aksessuary
+756,891,1143.0,Автомобильные чехлы,http://e96.ru/avto/auto_accessories/avtomobilnye_chehly
+757,1548,1204.0,Электропростыни,http://e96.ru/household_appliances/homeware/elektroprostyni
+758,91,1110.0,Компьютеры,http://e96.ru/computers/pc/kompyutery
+759,1573,1571.0,Мебель для ТВ и мультимедиа IKEA,http://e96.ru/mebel_ikea_dlya_tv_multimedia
+760,1322,1343.0,Готовые прихожие,http://e96.ru/furniture/hallway/prihojie
+761,1037,304.0,Товары для новорожденных,http://e96.ru/kids/goods_for_newborns
+762,357,1112.0,Калькуляторы,http://e96.ru/computers/office_equipment_and_supplies/kalkuljatory
+763,463,1174.0,Сифоны,http://e96.ru/sanitary_engineering/sinks_and_wash/sifony
+764,890,1249.0,Кувшины и графины,http://e96.ru/kitchen_appliance/crockery/kuvshiny_grafiny
+765,380,1104.0,Украшения для сотовых телефонов,http://e96.ru/phones/cell_phones/ukrashenija_dlja_sotovykh_telefonov
+766,690,689.0,Пневматические пистолеты,http://e96.ru/sporting_goods/airguns/pnevmaticheskie_pistolety
+767,947,214.0,Фотосумки и чехлы,http://e96.ru/foto/photo_bags/fotosumki_chehly
+768,1291,1156.0,Звуковые панели,http://e96.ru/audio_video/audio/zvukovye_paneli
+769,652,1108.0,Аккумуляторы для ноутбуков,http://e96.ru/computers/laptops/akumulatori_dlya_notebookov
+770,538,1047.0,Игрушечная посуда,http://e96.ru/kids/pretend_play/igrushechnaja_posuda
+771,1564,1203.0,Фонари желаний,http://e96.ru/household_appliances/presents/fonari_jelaniy
+772,1104,73.0,Сотовые телефоны,http://e96.ru/phones/cell_phones
+773,608,1033.0,Сумки для колясок,http://e96.ru/kids/child_car_seats_and_strollers/sumki_dlja_koljasok
+774,1125,1105.0,Проводные телефоны,http://e96.ru/phones/telephones_for_home_and_office/provodnie_telefony
+775,1031,1015.0,Качели садовые,http://e96.ru/garden_cottage/furniture_for_garden/kacheli_sadovye
+776,692,1014.0,Химия для бассейнов,http://e96.ru/garden_cottage/pools/himiya_dlya_basseynov
+777,1146,1139.0,Дневные ходовые огни,http://e96.ru/avto/autolights/dnevnye_hodovye_ogni
+778,1698,1591.0,Корма для рыб,http://e96.ru/zootovary/akvariumistika/korma_dlya_ryb
+779,1224,1210.0,Электрорасчески,http://e96.ru/household_appliances/haircare/elektrorascheski
+780,256,1116.0,Графические планшеты,http://e96.ru/computers/input_devices/graphicheskie_planshety
+781,566,1156.0,Проигрыватели пластинок,http://e96.ru/audio_video/audio/proigryvateli_plastinok
+782,18,1212.0,Washing machines,http://e96.ru/household_appliances/washing/stiralnye_mashiny
+783,667,1193.0,Пульты для котлов,http://e96.ru/climat/boilers/pulty_upravleniya_dlya_kotlov
+784,500,1136.0,Пульты для автомагнитол,http://e96.ru/avto/autosound/pulty_dlja_avtomagnitol
+785,1403,1112.0,Брошюраторы,http://e96.ru/computers/office_equipment_and_supplies/broshyuratory
+786,60,46.0,Встраиваемые холодильники,http://e96.ru/built_in/build_in_refrigerators
+787,451,1179.0,Стаканы для ванной комнаты,http://e96.ru/sanitary_engineering/bathroom_accessories/stakany_dlya_vannoy
+788,1658,876.0,Горнолыжные и сноубордические шлемы,http://e96.ru/sporting_goods/skis_and_snowboards/shlemy_dlya_zimnih_vidov_sporta
+789,21,1210.0,Фены,http://e96.ru/household_appliances/haircare/feny
+790,1880,1037.0,Подушки для беременных,http://e96.ru/kids/goods_for_newborns/podushki_dlya_beremennyh
+791,162,1078.0,Ножницы по металлу,http://e96.ru/tools/chain_saws_and_shears/nojnicy_po_metallu
+792,1106,73.0,Зарядные устройства и аккумуляторы для телефонов,http://e96.ru/phones/chargers_and_batteries_for_phones
+793,328,1084.0,Стремянки,http://e96.ru/tools/fixtures_and_equipment/stremyanki
+794,156,1076.0,Бороздоделы (штроборезы),http://e96.ru/tools/hammers/borozdodely
+795,1103,1077.0,Клеевые пистолеты,http://e96.ru/tools/thermo_and_thermal_guns/kleevye_pistolety
+796,293,1154.0,Игры для Sony PlayStation,http://e96.ru/audio_video/gaming_consoles/igry_dlya_sony_playstation
+797,794,793.0,Луки,http://e96.ru/sporting_goods/bows_crossbows_slingshots/luki
+798,796,793.0,Рогатки,http://e96.ru/sporting_goods/bows_crossbows_slingshots/rogatki
+799,385,1200.0,Люстры,http://e96.ru/household_appliances/lighting/lyustry
+800,1222,1210.0,Стайлеры,http://e96.ru/household_appliances/haircare/staylery
+801,1325,1344.0,Основания для кроватей,http://e96.ru/furniture/bedroom/osnovaniya_dlya_krovatey
+802,879,876.0,Комплекты беговых лыж,http://e96.ru/sporting_goods/skis_and_snowboards/komplekty_begovyh_lyj
+803,1212,16.0,Стирка и сушка,http://e96.ru/household_appliances/washing
+804,581,1037.0,Прыгунки,http://e96.ru/kids/goods_for_newborns/prygunki
+805,548,1043.0,Опыты и исследования,http://e96.ru/kids/educational_games/opyty
+806,127,1138.0,Автомойки,http://e96.ru/avto/car_wash/avtomoyki
+807,981,1135.0,Крепеж дисков,http://e96.ru/avto/tires_and_wheels/krepej_diskov
+808,417,1172.0,Ножки для ванн,http://e96.ru/sanitary_engineering/baths/nozhki_dlja_vann
+809,1495,1514.0,Парфюмерная вода для женщин,http://e96.ru/parfjumerija/parfjumernaja_voda_dlja_zhenshhin
+810,839,683.0,Волейбол,http://e96.ru/sporting_goods/volleyball
+811,1295,1294.0,Печи для бани,http://e96.ru/garden_cottage/bath/pechi_dlya_bani
+812,644,1193.0,Расширительные баки,http://e96.ru/climat/boilers/rasshiritelnye_baki
+813,953,116.0,Крышки для объективов,http://e96.ru/foto/photo_optics/kryshki_dlja_obektivov
+814,1055,1012.0,Электрические воздуходувки,http://e96.ru/garden_cottage/garden_blowers/elektricheskie_vozduhoduvki
+815,995,778.0,Теннисные столы,http://e96.ru/sporting_goods/ping_pong/tennisnye_stoly
+816,866,806.0,Медболы,http://e96.ru/sporting_goods/gym_and_aerobics/medboly
+817,238,1113.0,Видеокарты,http://e96.ru/computers/accessories/videocarty
+818,1068,1003.0,Фляги,http://e96.ru/tourism/utensils_for_tourism/flagi
+819,104,1196.0,Гладильные доски,http://e96.ru/household_appliances/ironing/gladilnie_doski
+820,1540,1109.0,Корпуса для планшетных компьютеров,http://e96.ru/computers/tablet_computers/korpusa_dlya_planshetnyh_kompyuterov
+821,273,1155.0,Док-станции,http://e96.ru/audio_video/music_players/dok_stancii
+822,395,1136.0,Шумоизоляция,http://e96.ru/avto/autosound/shumoizoljacija
+823,1475,1042.0,Чертежные доски,http://e96.ru/kids/school_goods/chertejnye_doski
+824,1771,1193.0,ТЭНы для котлов,http://e96.ru/climat/boilers/teny_dlya_kotlov
+825,656,1109.0,Защитные стекла для планшетных компьютеров,http://e96.ru/computers/tablet_computers/zaschitnye_stekla_dlya_planshetov
+826,726,1036.0,Детские столики,http://e96.ru/kids/furniture_and_accessories/detskie_stoliki
+827,250,1141.0,Зарядные устройства для аккумуляторов,http://e96.ru/avto/accumulators/zaryadnye_ustroystva_dlya_akkumulyatorov
+828,750,1014.0,Лестницы для бассейнов,http://e96.ru/garden_cottage/pools/lestnicy_dlya_basseynov
+829,1515,683.0,Гироциклы,http://e96.ru/sporting_goods/girocikly
+830,1587,1586.0,Обеденные столы IKEA,http://e96.ru/ikea/stolovaya_ikea/obedennye_stoly
+831,833,793.0,Стрелы для арбалета,http://e96.ru/sporting_goods/bows_crossbows_slingshots/strely_dlya_arbaleta
+832,234,1135.0,Колесные диски,http://e96.ru/avto/tires_and_wheels/kolesnie_disky
+833,364,1043.0,Наборы кубиков,http://e96.ru/kids/educational_games/nabory_kubikov
+834,568,1041.0,Качалки,http://e96.ru/kids/toys/kachalki
+835,854,850.0,Ракетки для бадминтона,http://e96.ru/sporting_goods/badminton/raketki_dlya_badmintona
+836,1572,1571.0,Диваны и кресла IKEA,http://e96.ru/ikea/gostinaya_ikea/divany_kresla_ikea
+837,1674,1036.0,Пеленальные столики,http://e96.ru/kids/furniture_and_accessories/pelenalnye_stoly
+838,1045,304.0,Игрушечный транспорт,http://e96.ru/kids/toy_trucks
+839,83,1154.0,Игровые приставки,http://e96.ru/audio_video/gaming_consoles/igrovye_pristavki
+840,1886,1017.0,Туалетная бумага для биотуалетов,http://e96.ru/garden_cottage/plumbing_for_garden/tualetnaya_bumaga_dlya_biotualetov
+841,674,1104.0,Стилусы,http://e96.ru/phones/cell_phones/stilusy
+842,983,685.0,Степперы,http://e96.ru/sporting_goods/trainers/steppery
+843,349,1081.0,Пилки для электролобзиков,http://e96.ru/tools/jigsaw_and_planers/pilki_dlya_elektrolobzikov
+844,1584,1577.0,Гардеробы IKEA,http://e96.ru/ikea/spalnya_ikea/garderob_ikea
+845,74,1104.0,Мобильные телефоны,http://e96.ru/phones/cell_phones/mobilnye_telefony
+846,1906,1900.0,Освещение в ванной IKEA,http://e96.ru/ikea/vannaya_ikea/osveschenie_v_vannoy_ikea
+847,1145,1139.0,Блоки розжига,http://e96.ru/avto/autolights/bloki_rozjiga
+848,311,1107.0,Проводные гарнитуры,http://e96.ru/phones/headset_mobile_phones/provodniye_garnitury
+849,1604,1193.0,Топливные брикеты,http://e96.ru/climat/boilers/toplivnye_brikety
+850,739,1042.0,Школьные пеналы,http://e96.ru/kids/school_goods/shkolnye_penaly
+851,1561,1104.0,Разъемы для телефонов,http://e96.ru/phones/cell_phones/razemy_dlya_telefonov
+852,849,847.0,Замки для велосипедов,http://e96.ru/sporting_goods/cycle_racing/zamki_dlya_velosipedov
+853,1421,999.0,Приборы ночного видения,http://e96.ru/tourism/optical_devices/pribory_nochnogo_videniya
+854,161,1076.0,Отбойные молотки,http://e96.ru/tools/hammers/pick_hammers
+855,323,1033.0,Детские автокресла,http://e96.ru/kids/child_car_seats_and_strollers/avtomobilnye_kresla
+856,1536,1143.0,Автомобильные коммуникаторы,http://e96.ru/avto/auto_accessories/avtomobilnye_kommunikatory
+857,634,1041.0,Наборы для песочницы,http://e96.ru/kids/toys/nabory_dlja_pesochnicy
+858,1056,1014.0,Каркасные бассейны,http://e96.ru/garden_cottage/pools/karkasnye_basseyny
+859,1029,1003.0,Туристические прихватки,http://e96.ru/tourism/utensils_for_tourism/turisticheskie_prihvatki
+860,1042,304.0,Товары для школы,http://e96.ru/kids/school_goods
+861,1506,1504.0,Сухие корма для собак,http://e96.ru/tovary_dlja_sobak/suhie_korma_dlja_sobak
+862,1397,1343.0,Шкафы для прихожей,http://e96.ru/furniture/hallway/shkafy_dlya_prihojey
+863,228,1135.0,Tires,http://e96.ru/avto/tires_and_wheels/shiny
+864,121,1113.0,Жесткие диски,http://e96.ru/computers/accessories/jestkie_diski
+865,907,684.0,Атлетические перчатки,http://e96.ru/sporting_goods/weightlifting/atleticheskie_perchatki
+866,746,1038.0,Уличные детские спортивные комплексы,http://e96.ru/kids/baby_complexes/ulichnye_detskie_sportivnye_kompleksy
+867,1832,1201.0,Патроны на дистанционном управлении,http://e96.ru/household_appliances/electrics/patrony_na_distancionnom_upravlenii
+868,1218,1197.0,Пароочистители,http://e96.ru/household_appliances/steamers/paroochistiteli
+869,1683,46.0,Панели для микроволновых печей,http://e96.ru/built_in/paneli_dlya_mikrovolnovyh_pechey
+870,927,1201.0,Рамки и вставки для электрооборудования,http://e96.ru/household_appliances/electrics/ramki_vstavki_dlya_elektrooborudovaniya
+871,1251,24.0,Кухонные товары,http://e96.ru/kitchen_appliance/goods
+872,1270,1136.0,Твитеры (ВЧ-динамики),http://e96.ru/avto/autosound/tvitery
+873,1553,999.0,Объективы для зрительных труб,http://e96.ru/tourism/optical_devices/obektivy_dlya_zritelnyh_trub
+874,1579,1577.0,Кровати IKEA,http://e96.ru/ikea/spalnya_ikea/krovati_ikea
+875,1004,175.0,Наборы для пикника и мебель для кемпинга,http://e96.ru/tourism/picnic_sets_and_furniture_for_camping
+876,276,1104.0,Чехлы для сотовых телефонов,http://e96.ru/phones/cell_phones/chekhly_dlja_sotovykh_telefonov
+877,13,1156.0,Диктофоны,http://e96.ru/audio_video/audio/diktofony
+878,462,1173.0,Поддоны,http://e96.ru/sanitary_engineering/shower_enclosures/poddony
+879,1256,1252.0,Сорбетницы,http://e96.ru/kitchen_appliance/parties/sorbetnicy
+880,896,806.0,Форма легкоатлетическая,http://e96.ru/sporting_goods/gym_and_aerobics/forma_legkoatleticheskaya
+881,1558,1011.0,Наборы садовых инструментов,http://e96.ru/garden_cottage/hand_garden_tools/nabory_sadovyh_instrumentov
+882,1444,1143.0,Автомобильные шторки,http://e96.ru/avto/auto_accessories/avtomobilnye_shtorki
+883,352,1248.0,Фильтры для кофеварок,http://e96.ru/kitchen_appliance/tea_and_coffee/filtry_dlja_kofe
+884,1315,39.0,Автомобильные масла,http://e96.ru/avto/car_oil
+885,363,1196.0,Стенды под гладильные прессы,http://e96.ru/household_appliances/ironing/stendy_pod_gladilnye_pressy
+886,154,1109.0,Планшетные компьютеры,http://e96.ru/computers/tablet_computers/planshetnye_kompyutery
+887,1823,1344.0,Ширмы,http://e96.ru/furniture/bedroom/shirmy
+888,820,1001.0,Карповые удочки,http://e96.ru/tourism/fishing/karpovye_udochki
+889,1298,1299.0,Умные часы и браслеты,http://e96.ru/phones/devices/umnye_chasy
+890,284,1108.0,Товары по уходу за компьютерной техникой,http://e96.ru/computers/notebooks/ukhod_za_komp_juternojj_tekhnikojj
+891,1299,73.0,Носимые устройства,http://e96.ru/phones/devices
+892,27,1248.0,Электрические чайники,http://e96.ru/kitchen_appliance/tea_and_coffee/elektricheskie_chayniki
+893,757,1014.0,Чехлы для бассейнов,http://e96.ru/garden_cottage/pools/chehly_dlya_basseynov
+894,991,990.0,Кубки,http://e96.ru/sporting_goods/sports_awards/kubky
+895,225,1114.0,Сетевые фильтры,http://e96.ru/computers/power_protection_devices/setevye_filtry
+896,512,1171.0,Лейки для биде,http://e96.ru/sanitary_engineering/faucets/lejjki_dlja_bide
+897,1364,1311.0,Автомобильные фильтры,http://e96.ru/avto/auto_parts/avtomobilnye_filtry
+898,477,1156.0,Переходники,http://e96.ru/audio_video/audio/perehodniki
+899,319,1113.0,Корпуса,http://e96.ru/computers/accessories/korpusa
+900,1389,1384.0,Керамическая плитка и керамогранит,http://e96.ru/finishes/ceramic_tiles
+901,998,175.0,Лодки и моторы,http://e96.ru/tourism/boats_and_motors
+902,1100,1078.0,Бензорезы,http://e96.ru/tools/chain_saws_and_shears/benzorezy
+903,819,1001.0,Спиннинги,http://e96.ru/tourism/fishing/spinningi
+904,147,1081.0,Электролобзики,http://e96.ru/tools/jigsaw_and_planers/elektrolobziki
+905,878,876.0,Ботинки для беговых лыж,http://e96.ru/sporting_goods/skis_and_snowboards/botinki_dlya_begovyh_lyj
+906,1378,1386.0,Двери межкомнатные,http://e96.ru/finishes/doors/dveri_mejkomnatnye
+907,1011,1007.0,Ручной садовый инструмент,http://e96.ru/garden_cottage/hand_garden_tools
+908,522,1179.0,Коврики для ванной,http://e96.ru/sanitary_engineering/bathroom_accessories/kovriki_dlja_vann
+909,1178,206.0,Полотенцесушители и держатели,http://e96.ru/sanitary_engineering/towel_warmers
+910,1527,1347.0,Стойки ресепшн,http://e96.ru/furniture/office/stoyki_resepshn
+911,870,868.0,Коньки прогулочные,http://e96.ru/sporting_goods/ice_skating/konki_progulochnye
+912,1257,1252.0,Аппараты для сахарной ваты,http://e96.ru/kitchen_appliance/parties/apparaty_dlya_saharnoy_vaty
+913,1570,,Мебель IKEA,http://e96.ru/ikea
+914,1201,16.0,Электрооборудование,http://e96.ru/household_appliances/electrics
+915,431,1176.0,Крышки-сиденья для биде,http://e96.ru/sanitary_engineering/sanfayans/kryshki_sidenja_dlja_bide
+916,377,1039.0,Роликовые коньки,http://e96.ru/kids/children_transport/rolikovye_konki
+917,1901,1900.0,Шкафы для раковины IKEA,http://e96.ru/ikea/vannaya_ikea/shkafy_dlya_rakoviny_ikea
+918,847,683.0,Велоспорт,http://e96.ru/sporting_goods/cycle_racing
+919,29,1246.0,Кухонные комбайны,http://e96.ru/kitchen_appliance/small/kuhonnye_kombayny
+920,347,1079.0,Аксессуары для круглошлифовальных машин,http://e96.ru/tools/grinding_equipment/aksessuary_dlya_krugloshlifovalnyh_mashin
+921,1531,1344.0,Шкафы в спальню,http://e96.ru/furniture/bedroom/shkafy_v_spalnyu
+922,1092,1091.0,Стружкоотсосы,http://e96.ru/tools/building_facilities/strujkootsosy
+923,384,1037.0,Детская посуда для кормления,http://e96.ru/kids/goods_for_newborns/detskaja_posuda_dlja_kormlenija
+924,1428,1112.0,Фотобарабаны,http://e96.ru/computers/office_equipment_and_supplies/fotobarabany
+925,481,1075.0,Коронки для дрелей и перфораторов,http://e96.ru/tools/drills/koronki
+926,602,1037.0,Детское питание,http://e96.ru/kids/goods_for_newborns/detskoe_pitanie
+927,729,684.0,Гири,http://e96.ru/sporting_goods/weightlifting/giri
+928,1630,876.0,Сноуборды,http://e96.ru/sporting_goods/skis_and_snowboards/snoubordy
+929,117,1118.0,Wi-Fi оборудование,http://e96.ru/computers/network_equipment/wifi
+930,1036,304.0,Мебель и аксессуары,http://e96.ru/kids/furniture_and_accessories
+931,596,1112.0,Принтеры для этикеток и чеков,http://e96.ru/computers/office_equipment_and_supplies/printery_ehtiketok
+932,1232,1200.0,USB лампы,http://e96.ru/household_appliances/lighting/usb_lampy
+933,271,1108.0,Охлаждающие подставки для ноутбуков,http://e96.ru/computers/laptops/okhlazhdajushhie_podstavki_dlja_noutbukov
+934,1574,1571.0,Решения для хранения в гостиной IKEA,http://e96.ru/ikea/gostinaya_ikea/resheniya_dlya_hraneniya_v_gostinoy_ikea
+935,392,1013.0,Парники,http://e96.ru/garden_cottage/greenhouses/parniki
+936,598,1078.0,Заточные устройства для пил,http://e96.ru/tools/chain_saws_and_shears/zatochnye_ustroystva
+937,1187,1171.0,Крепеж для смесителя,http://e96.ru/sanitary_engineering/faucets/krepej_dlya_smesitelya
+938,1286,1346.0,Обеденные группы,http://e96.ru/furniture/kitchen/obedennye_gruppy
+939,1369,1345.0,Кресла-качалки,http://e96.ru/furniture/living_room/kresla_kachalki
+940,577,1143.0,Щетки стеклоочистителя,http://e96.ru/avto/auto_accessories/shhetki_stekloochistitelja
+941,307,1046.0,Радиоуправляемые игрушки,http://e96.ru/kids/toys_on_remote_control/radioupravljaemye_modeli
+942,313,1137.0,Автомобильные сирены,http://e96.ru/avto/alarm/avtomobilnye_sireny
+943,1512,1189.0,Печи-камины,http://e96.ru/climat/heating/pechi_kaminy
+944,850,683.0,Бадминтон,http://e96.ru/sporting_goods/badminton
+945,149,46.0,Фильтры для вытяжек,http://e96.ru/built_in/filters
+946,1411,1114.0,Аккумуляторы для ИБП,http://e96.ru/computers/power_protection_devices/akkumulyatory_dlya_ibp
+947,881,876.0,Палки для беговых лыж,http://e96.ru/sporting_goods/skis_and_snowboards/palki_dlya_begovyh_lyj
+948,441,1251.0,Губки для мытья посуды,http://e96.ru/kitchen_appliance/goods/gubki_dlja_posudy
+949,1012,1007.0,Садовые воздуходувки,http://e96.ru/garden_cottage/garden_blowers
+950,773,769.0,"Перчатки, лапы, накладки",http://e96.ru/sporting_goods/martial_arts/perchatki_lapy_nakladki
+951,1638,876.0,Ботинки для сноубордов,http://e96.ru/sporting_goods/skis_and_snowboards/botinki_dlya_snoubordov
+952,86,1110.0,Мониторы,http://e96.ru/computers/pc/monitory
+953,202,1108.0,Сумки для ноутбуков,http://e96.ru/computers/laptops/sumki_dlya_noutbukov
+954,1775,1386.0,Межкомнатные арки,http://e96.ru/finishes/doors/mejkomnatnye_arki
+955,1763,1503.0,Туалеты для кошек,http://e96.ru/zootovary/tovary_dlja_koshek/tualety_dlya_koshek
+956,1466,1203.0,Наборы для гольфа,http://e96.ru/household_appliances/presents/nabory_dlya_golfa
+957,209,1250.0,Соковарки,http://e96.ru/kitchen_appliance/juices_and_yogurts/sokovarki
+958,695,806.0,Батуты,http://e96.ru/sporting_goods/gym_and_aerobics/batuty
+959,1155,1.0,Музыкальные плееры,http://e96.ru/audio_video/music_players
+960,657,1191.0,Осушители воздуха,http://e96.ru/climat/air_purifiers/osushiteli_vozduha
+961,978,1204.0,Электронные лупы,http://e96.ru/household_appliances/homeware/elektronnye_lupy
+962,1288,1156.0,Встраиваемая акустика,http://e96.ru/audio_video/audio/vstraivaemaya_akustika
+963,1268,1154.0,Рули,http://e96.ru/audio_video/gaming_consoles/ruli
+964,9,1155.0,MP3-плееры,http://e96.ru/audio_video/music_players/mp3_pleery
+965,1038,304.0,Детские комплексы,http://e96.ru/kids/baby_complexes
+966,1007,,"Сад, дача, огород",http://e96.ru/garden_cottage
+967,1634,876.0,Крепления для сноубордов,http://e96.ru/sporting_goods/skis_and_snowboards/krepleniya_dlya_snoubordov
+968,1117,81.0,Носители информации,http://e96.ru/computers/recording_media
+969,772,769.0,Защита,http://e96.ru/sporting_goods/martial_arts/zaschita
+970,779,683.0,Плавание,http://e96.ru/sporting_goods/swimming
+971,1176,206.0,"Унитазы, писсуары, биде",http://e96.ru/sanitary_engineering/sanfayans
+972,261,1109.0,Чехлы для планшетных компьютеров,http://e96.ru/computers/tablet_computers/chekhly_dlja_planshetnykh_kompjuterov
+973,1619,1112.0,Аксессуары для брошюраторов,http://e96.ru/computers/office_equipment_and_supplies/aksessuary_dlya_broshyuratorov
+974,949,214.0,Аквабоксы,http://e96.ru/foto/photo_bags/akvaboksy
+975,1503,1502.0,Товары для кошек,http://e96.ru/zootovary/tovary_dlja_koshek
+976,505,1209.0,Насадки для зубных щеток,http://e96.ru/household_appliances/toothbrushes/nasadki_dlja_zubnykh_shhetok
+977,930,685.0,Спортивные скамьи,http://e96.ru/sporting_goods/trainers/sportivnye_skami
+978,258,998.0,Лодочные моторы,http://e96.ru/tourism/boats_and_motors/lodochnye_motory
+979,248,1136.0,Штатные головные устройства,http://e96.ru/avto/autosound/shtatnye_golovnye_ustroystva
+980,1241,1190.0,Мобильные кондиционеры,http://e96.ru/climat/split_systems/mobilnye_kondicionery
+981,1203,16.0,Сувениры и подарки,http://e96.ru/household_appliances/presents
+982,279,1104.0,Пленки для телефонов,http://e96.ru/phones/cell_phones/plenki_dlja_telefonov
+983,1595,1586.0,Мебель для кафе IKEA,http://e96.ru/ikea/stolovaya_ikea/mebel_dlya_kafe_ikea
+984,336,1039.0,Детские велосипеды,http://e96.ru/kids/children_transport/detskie_velosipedy
+985,1796,1033.0,Шасси для колясок,http://e96.ru/kids/child_car_seats_and_strollers/shassi_dlya_kolyasok
+986,371,1041.0,Резиновые игрушки,http://e96.ru/kids/toys/rezinovye_igrushki
+987,299,1245.0,Средства для чистки холодильников,http://e96.ru/kitchen_appliance/large/sredstva_dlya_chistki_holodilnikov
+988,1507,1503.0,Сумки-переноски для кошек,http://e96.ru/tovary_dlja_koshek/sumki_perenoski_dlja_koshek
+989,911,1201.0,Выключатели,http://e96.ru/household_appliances/electrics/vyklyuchateli
+990,580,1037.0,Ходунки,http://e96.ru/kids/goods_for_newborns/khodunki
+991,1779,1033.0,Базы для автокресел,http://e96.ru/kids/child_car_seats_and_strollers/bazy_dlya_avtokresel
+992,369,1035.0,Мобили,http://e96.ru/kids/baby_cribs/mobili
+993,93,1159.0,ТВ-приставки,http://e96.ru/audio_video/television/tv_pristavki
+994,1120,81.0,Серверное оборудование,http://e96.ru/computers/servers
+995,1226,1017.0,Наливные водонагреватели,http://e96.ru/garden_cottage/plumbing_for_garden/nalivnie_nagrevateli
+996,1121,1119.0,Операционные системы,http://e96.ru/computers/software_is/operacionnye_sistemy
+997,32,1245.0,Электрические плиты,http://e96.ru/kitchen_appliance/large/elektricheskie_plity
+998,829,689.0,Пулеулавливатели,http://e96.ru/sporting_goods/airguns/puleulavlivateli
+999,985,1189.0,Электрокамины,http://e96.ru/climat/heating/elektrokaminy
+1000,808,806.0,Коврики для йоги,http://e96.ru/sporting_goods/gym_and_aerobics/kovriki_dlya_yogi
+1001,174,1212.0,Сушильные машины,http://e96.ru/household_appliances/washing/sushilnye_mashiny
+1002,359,1250.0,Аксессуары для йогуртниц,http://e96.ru/kitchen_appliance/juices_and_yogurts/aksessuary_dlja_jjogurtnic
+1003,809,1153.0,Магнитно-маркерные доски,http://e96.ru/audio_video/projectors/magnitno_markernye_doski
+1004,251,1246.0,Аксессуары для мультиварок,http://e96.ru/kitchen_appliance/small/aksessuary_dlya_multivarok
+1005,393,1005.0,Мангалы,http://e96.ru/tourism/grills_barbecue/mangaly
+1006,257,998.0,Надувные лодки,http://e96.ru/tourism/boats_and_motors/naduvnye_lodki
+1007,873,871.0,Шайбы,http://e96.ru/sporting_goods/hockey/shayby
+1008,1539,1001.0,Ледобуры,http://e96.ru/tourism/fishing/ledobury
+1009,36,1246.0,Мясорубки,http://e96.ru/kitchen_appliance/small/myasorubki
+1010,504,1039.0,Каталки-толокары,http://e96.ru/kids/children_transport/katalki_tolokary
+1011,163,1091.0,Промышленные пылесосы,http://e96.ru/tools/building_facilities/promyshlennye_pylesosy
+1012,1500,1514.0,Одеколоны,http://e96.ru/parfjumerija/odekoloni
+1013,1522,1520.0,Бильярдные шары,http://e96.ru/sporting_goods/biljard/biljardnye_shary
+1014,1190,1182.0,Сплит-системы,http://e96.ru/climat/split_systems
+1015,1497,1514.0,Духи,http://e96.ru/parfjumerija/duhi
+1016,806,683.0,Гимнастика и аэробика,http://e96.ru/sporting_goods/gym_and_aerobics
+1017,597,1173.0,Стенки для душевых кабин,http://e96.ru/sanitary_engineering/shower_enclosures/stenki_dlja_dushevykh_kabin
+1018,287,1202.0,Видеодомофоны,http://e96.ru/household_appliances/video_monitoring/videodomofony
+1019,488,1136.0,Конденсаторы,http://e96.ru/avto/autosound/kondensatory
+1020,123,46.0,Измельчители бытовых отходов,http://e96.ru/built_in/household_disposers
+1021,621,1173.0,Душевые ограждения для поддонов,http://e96.ru/sanitary_engineering/shower_enclosures/ograzhdenija_dlja_poddonov
+1022,979,1248.0,Капучинаторы,http://e96.ru/kitchen_appliance/tea_and_coffee/kapuchinatory
+1023,610,1110.0,Подставки для мониторов,http://e96.ru/computers/pc/podstavki_dlja_monitorov
+1024,1474,1104.0,Детекторы мобильных телефонов,http://e96.ru/phones/cell_phones/detektory_mobilnyh_telefonov
+1025,626,1038.0,Гимнастические кольца,http://e96.ru/kids/baby_complexes/gimnasticheskie_kolca
+1026,184,1116.0,Трекпады,http://e96.ru/computers/input_devices/trekpady
+1027,1877,1189.0,Теплоносители,http://e96.ru/climat/heating/teplonositeli
+1028,1337,1203.0,Самогонные аппараты,http://e96.ru/household_appliances/presents/samogonnye_apparaty
+1029,910,847.0,Велосипедные фляги,http://e96.ru/sporting_goods/cycle_racing/velosipednye_flyagi
+1030,1593,1189.0,Кронштейны для обогревателей,http://e96.ru/climat/heating/kronshteyny_dlya_obogrevateley
+1031,537,1044.0,Наборы для творчества,http://e96.ru/kids/hobbies/nabory_dlja_tvorchestva
+1032,187,1246.0,Мультиварки,http://e96.ru/kitchen_appliance/small/multivarki
+1033,659,1251.0,Рейлинговые системы,http://e96.ru/kitchen_appliance/goods/reylingovye_sistemy
+1034,208,1017.0,Пластиковые баки для воды,http://e96.ru/garden_cottage/plumbing_for_garden/baki_dlya_vody
+1035,1489,1039.0,Беговелы,http://e96.ru/kids/children_transport/begovely
+1036,689,683.0,Пневматическое оружие,http://e96.ru/sporting_goods/airguns
+1037,1059,1015.0,Стулья для дачи,http://e96.ru/garden_cottage/furniture_for_garden/stulya_dlya_dachi
+1038,882,876.0,Чехлы для лыж,http://e96.ru/sporting_goods/skis_and_snowboards/chehly_dlya_lyj
+1039,1199,16.0,Швейное оборудование,http://e96.ru/household_appliances/sewing
+1040,20,1196.0,Утюги,http://e96.ru/household_appliances/ironing/utyugi
+1041,1501,1388.0,Стеклообои,http://e96.ru/finishes/wallpaper/steklooboi
+1042,403,1172.0,Ванны,http://e96.ru/sanitary_engineering/baths/vanny
+1043,1265,1248.0,Чайники,http://e96.ru/kitchen_appliance/tea_and_coffee/chayniki
+1044,95,1246.0,Ломтерезки,http://e96.ru/kitchen_appliance/small/lomterezki
+1045,478,1075.0,Биты,http://e96.ru/tools/drills/bity
+1046,1517,1515.0,Моноколеса,http://e96.ru/sporting_goods/girocikly/monokolesa
+1047,37,1245.0,Посудомоечные машины,http://e96.ru/kitchen_appliance/large/posudomoechnye_mashiny
+1048,1524,1388.0,Обойный клей,http://e96.ru/finishes/wallpaper/obojnyj_klej
+1049,1344,1342.0,Спальня,http://e96.ru/furniture/bedroom
+1050,1148,1139.0,Фары ближнего света,http://e96.ru/avto/autolights/fary_blijnego_sveta
+1051,536,1214.0,Купоны на подключение,http://e96.ru/household_appliances/coupons/ustanovka_bytovojj_tekhniki
+1052,243,1208.0,Аксессуары для бритв,http://e96.ru/household_appliances/shaving/aksessuary_dlya_britv
+1053,45,1160.0,Видеокамеры,http://e96.ru/audio_video/cameras/videocamery
+1054,984,1189.0,Терморегуляторы для радиаторов,http://e96.ru/sanitary_engineering/termoregulyatory_dlya_radiatorov
+1055,277,1142.0,Чип-тюнинг,http://e96.ru/avto/auto_electronics/chip_tuning
+1056,343,1142.0,Автохолодильники,http://e96.ru/avto/auto_electronics/avtokholodilniki
+1057,1135,39.0,Шины и диски,http://e96.ru/avto/tires_and_wheels
+1058,1354,845.0,Пистолеты для страйкбола,http://e96.ru/sporting_goods/strikeball/pistolety_dlya_straykbola
+1059,445,1179.0,Держатели для туалетной бумаги,http://e96.ru/sanitary_engineering/bathroom_accessories/derzhateli_dlja_tualetnojj_bumagi
+1060,19,1105.0,Радиотелефоны,http://e96.ru/phones/telephones_for_home_and_office/radio_telefony
+1061,842,684.0,Пояса для тяжелой атлетики,http://e96.ru/sporting_goods/weightlifting/poyasa_dlya_tyajeloy_atletiki
+1062,1602,1343.0,Полки для обуви,http://e96.ru/furniture/hallway/polki_dlya_obuvi
+1063,1174,206.0,Раковины и мойки,http://e96.ru/sanitary_engineering/sinks_and_wash
+1064,459,1179.0,Диспенсеры для салфеток,http://e96.ru/sanitary_engineering/bathroom_accessories/dispensery_dlja_salfetok
+1065,458,1179.0,Корзины для белья,http://e96.ru/sanitary_engineering/bathroom_accessories/korziny_dlja_belja
+1066,531,1041.0,Детские брелоки,http://e96.ru/kids/toys/detskie_breloki
+1067,617,1206.0,Гирлянды,http://e96.ru/household_appliances/new_year/girljandy
+1068,1826,1204.0,Электроодеяла,http://e96.ru/household_appliances/homeware/elektroodeyala
+1069,1532,1347.0,Офисные диваны,http://e96.ru/furniture/office/ofisnye_divany
+1070,1352,1346.0,Кухонные шкафы,http://e96.ru/furniture/kitchen/kuhonnye_shkafy
+1071,752,1014.0,Наборы для чистки бассейнов,http://e96.ru/garden_cottage/pools/nabory_dlya_chistki_basseynov
+1072,244,1251.0,Безмены,http://e96.ru/kitchen_appliance/goods/bezmeny
+1073,303,1245.0,Товары по уходу за кухонной техникой,http://e96.ru/kitchen_appliance/large/uhod_za_kuhonnoy_tehnikoy
+1074,1114,81.0,Устройства защиты электропитания,http://e96.ru/computers/power_protection_devices
+1075,134,1009.0,Газонокосилки,http://e96.ru/garden_cottage/lawn_care/gazonokosilki
+1076,1900,1570.0,Ванная IKEA,http://e96.ru/ikea/vannaya_ikea
+1077,22,1208.0,Бритвы,http://e96.ru/household_appliances/shaving/britvy
+1078,1242,1190.0,Оконные кондиционеры,http://e96.ru/climat/split_systems/okonnye_kondicionery
+1079,797,1112.0,Тонер для картриджа,http://e96.ru/computers/office_equipment_and_supplies/toner_dlya_kartridja
+1080,924,1085.0,Строительные наушники,http://e96.ru/tools/personal_protective_equipment/stroitelnye_naushniki
+1081,405,1113.0,USB-хабы,http://e96.ru/computers/accessories/usb_khaby
+1082,130,1075.0,Дрели,http://e96.ru/tools/drills/drely
+1083,1304,1088.0,Пирометры,http://e96.ru/tools/measuring_tools/pirometry
+1084,1009,1007.0,Уход за газоном,http://e96.ru/garden_cottage/lawn_care
+1085,186,1246.0,Вафельницы,http://e96.ru/kitchen_appliance/small/vafelnicy
+1086,1391,1388.0,Фотообои,http://e96.ru/finishes/wallpaper/fotooboi
+1087,112,1118.0,USB-модемы,http://e96.ru/computers/network_equipment/usb_modemy
+1088,539,1047.0,Игрушечная бытовая техника,http://e96.ru/kids/pretend_play/igrushechnaja_bytovaja_tekhnika
+1089,1271,1136.0,Среднечастотная автоакустика,http://e96.ru/avto/autosound/srednechastotnaya_avtoakustika
+1090,1502,,Зоотовары,http://e96.ru/zootovary
+1091,669,1153.0,Лампы для проекторов,http://e96.ru/audio_video/projectors/lampy_dlya_proektorov
+1092,1198,16.0,Пылесосы и роботы-пылесосы,http://e96.ru/household_appliances/cleaners
+1093,1464,1108.0,Клавиатуры для ноутбуков,http://e96.ru/computers/laptops/klaviatury_dlya_noutbukov
+1094,365,1045.0,Машинки,http://e96.ru/kids/toy_trucks/mashinki
+1095,232,1136.0,Автомобильные антенны,http://e96.ru/avto/autosound/avtomobilnye_antenny
+1096,1459,1203.0,Карты путешественника,http://e96.ru/household_appliances/presents/karta_puteshestvennika
+1097,212,1180.0,Обезжелезиватели,http://e96.ru/sanitary_engineering/water_supply/obezjelezivateli
+1098,707,1000.0,Дорожные сумки,http://e96.ru/tourism/backpacks_and_bags/dorojnie_sumki
+1099,961,110.0,Струбцины для фототехники,http://e96.ru/foto/tripods/strubciny_dlja_fototehniki
+1100,871,683.0,Хоккей,http://e96.ru/sporting_goods/hockey
+1101,125,1198.0,Фильтры для пылесосов,http://e96.ru/household_appliances/cleaners/filtry_dlja_pylesosov
+1102,812,1037.0,Спальные мешки для детей,http://e96.ru/kids/goods_for_newborns/spalnye_meshki_dlya_detey
+1103,1062,1015.0,Зонты от солнца,http://e96.ru/garden_cottage/furniture_for_garden/zonty_ot_solnca
+1104,422,1176.0,Бачки для унитазов,http://e96.ru/sanitary_engineering/sanfayans/bachki_dlja_unitazov
+1105,1331,1348.0,Тумбы для детской,http://e96.ru/furniture/kids_room/tumby_dlya_detskoy
+1106,713,1000.0,Рюкзаки,http://e96.ru/tourism/backpacks_and_bags/ryukzaki
+1107,317,1043.0,Конструкторы,http://e96.ru/kids/educational_games/konstruktory
+1108,25,1246.0,Микроволновые печи,http://e96.ru/kitchen_appliance/small/mikrovolnovye_pechi
+1109,1342,,Мебель,http://e96.ru/furniture
+1110,1470,1311.0,Переходные рамки,http://e96.ru/avto/auto_parts/perehodnye_ramki
+1111,524,1045.0,Железные дороги,http://e96.ru/kids/toy_trucks/zheleznye_dorogi
+1112,177,1002.0,Радиостанции,http://e96.ru/tourism/travel_gear/racii_i_radiostancii
+1113,321,1113.0,Процессоры,http://e96.ru/computers/accessories/processory
+1114,894,684.0,Грифы,http://e96.ru/sporting_goods/weightlifting/grifi
+1115,607,1037.0,Переноски для новорожденных,http://e96.ru/kids/goods_for_newborns/perenoski_dlja_novorozhdennykh
+1116,559,1038.0,Игровые комплексы,http://e96.ru/kids/baby_complexes/igrovye_kompleksy
+1117,3,1158.0,Телевизоры,http://e96.ru/audio_video/tv/televizory
+1118,136,1156.0,Радиоприемники,http://e96.ru/audio_video/audio/radiopriemniki
+1119,1805,1343.0,Зеркала для прихожей,http://e96.ru/furniture/hallway/zerkala_dlya_prihojey
+1120,447,1179.0,Двойные держатели для ванных принадлежностей,http://e96.ru/sanitary_engineering/bathroom_accessories/dvoinie_derzhateli
+1121,144,1246.0,Блинницы,http://e96.ru/kitchen_appliance/small/blinnicy
+1122,717,685.0,Министадионы,http://e96.ru/sporting_goods/trainers/ministadiony
+1123,39,,Авто и мото,http://e96.ru/avto
+1124,420,1172.0,Экраны для ванн,http://e96.ru/sanitary_engineering/baths/ehkrany
+1125,1427,1104.0,Усилители сигнала сотовой связи,http://e96.ru/phones/cell_phones/usiliteli_signala_sotovoy_svyazi
+1126,1327,1345.0,Пуфы,http://e96.ru/furniture/living_room/pufy
+1127,859,839.0,Волейбольные мячи,http://e96.ru/sporting_goods/volleyball/voleybolnye_myachi
+1128,589,1251.0,Кухонные принадлежности,http://e96.ru/kitchen_appliance/goods/kukhonnye_prinadlezhnosti
+1129,1209,16.0,Зубные щетки,http://e96.ru/household_appliances/toothbrushes
+1130,855,685.0,Турники,http://e96.ru/sporting_goods/trainers/turniki
+1131,401,1037.0,Подгузники,http://e96.ru/kids/goods_for_newborns/podguzniki
+1132,1276,1088.0,Аксессуары для измерительного оборудования,http://e96.ru/tools/measuring_tools/aksessuary_dlya_izmeritelnogo_oborudovaniya
+1133,92,1117.0,Карты памяти,http://e96.ru/computers/recording_media/karty_pamyati
+1134,1336,1203.0,Кальяны,http://e96.ru/household_appliances/presents/kalyany
+1135,1214,16.0,Купоны и сертификаты,http://e96.ru/household_appliances/coupons
+1136,143,1108.0,Адаптеры питания для ноутбуков,http://e96.ru/computers/laptops/adaptery_pitaniya_dlya_noutbukov
+1137,886,806.0,Обручи,http://e96.ru/sporting_goods/gym_and_aerobics/obruchi
+1138,1245,24.0,Крупная техника,http://e96.ru/kitchen_appliance/large
+1139,631,1137.0,Брелоки для сигнализаций,http://e96.ru/avto/alarm/breloki_signalizacij
+1140,1328,1384.0,Ламинат,http://e96.ru/finishes/flooring/laminat
+1141,801,1194.0,Трубы для дымохода,http://e96.ru/climat/chimneys/truby_dlya_dymohoda
+1142,1413,1203.0,Визитницы,http://e96.ru/household_appliances/presents/vizitnicy
+1143,1091,129.0,Уборка строительного помещения,http://e96.ru/tools/building_facilities
+1144,755,1006.0,Электрические насосы,http://e96.ru/tourism/pumps_for_inflatable_products/elektricheskie_nasosy
+1145,719,1036.0,Детские мягкие кресла,http://e96.ru/kids/furniture_and_accessories/detskie_mjagkie_kresla
+1146,1246,24.0,Мелкая техника,http://e96.ru/kitchen_appliance/small
+1147,57,1199.0,Швейные машины,http://e96.ru/household_appliances/sewing/shvejjnye_mashiny
+1148,888,1249.0,"Бокалы, стаканы, рюмки",http://e96.ru/kitchen_appliance/crockery/bokaly_stakany_ryumki
+1149,942,48.0,Рамки для фотографий,http://e96.ru/foto/photo_frames
+1150,912,1201.0,Розетки,http://e96.ru/household_appliances/electrics/rozetki
+1151,1425,1104.0,Тачскрины,http://e96.ru/phones/cell_phones/tachskriny
+1152,1233,1200.0,Подсветка для картин,http://e96.ru/household_appliances/lighting/podsvetka_dlya_kartin
+1153,1306,1088.0,Детекторы металла (проводки),http://e96.ru/tools/measuring_tools/detektory_provodky
+1154,171,1142.0,Видеорегистраторы,http://e96.ru/avto/auto_electronics/videoregistradory
+1155,515,1085.0,Рукавицы и перчатки,http://e96.ru/tools/personal_protective_equipment/rukavicy_i_perchatki
+1156,1592,1591.0,Аквариумы,http://e96.ru/zootovary/akvariumistika/akvariumy
+1157,1247,24.0,Кухонные грили,http://e96.ru/kitchen_appliance/kitchen_grills
+1158,1195,1182.0,Приборы для измерения климата,http://e96.ru/climat/measuring_climate
+1159,585,1249.0,Столовые приборы,http://e96.ru/kitchen_appliance/crockery/stolovye_pribory
+1160,1160,1.0,Видео и экшн камеры,http://e96.ru/audio_video/cameras
+1161,1477,1110.0,Шлемы виртуальной реальности,http://e96.ru/computers/pc/shlemy_virtualnoy_realnosti
+1162,140,1153.0,Мультимедиа проекторы,http://e96.ru/audio_video/projectors/proektory
+1163,673,1041.0,Солдатики,http://e96.ru/kids/toys/soldatiki
+1164,769,683.0,Единоборства,http://e96.ru/sporting_goods/martial_arts
+1165,1432,1345.0,Шторы,http://e96.ru/furniture/living_room/shtory
+1166,456,1179.0,Дозаторы для жидкого мыла,http://e96.ru/sanitary_engineering/bathroom_accessories/dozatory_dlja_zhidkogo_myla
+1167,569,1171.0,Подводка для воды,http://e96.ru/sanitary_engineering/faucets/podvodka
+1168,1396,1093.0,Аксессуары для сварочных аппаратов,http://e96.ru/tools/power_equipment/aksessuary_dlya_svarochnyh_apparatov
+1169,1581,1577.0,Зеркала IKEA,http://e96.ru/ikea/spalnya_ikea/zerkala_ikea
+1170,1395,1389.0,Мозаика,http://e96.ru/finishes/ceramic_tiles/mozaika
+1171,181,1115.0,Веб-камеры,http://e96.ru/computers/multimedia/veb_kamery
+1172,1469,1002.0,Тангенты для раций,http://e96.ru/tourism/travel_gear/tangenti_dlya_raciy
+1173,200,1112.0,Сканеры,http://e96.ru/computers/office_equipment_and_supplies/skanery
+1174,146,1081.0,Электрорубанки,http://e96.ru/tools/jigsaw_and_planers/elektrorubanki
+1175,594,1189.0,Радиаторы отопления,http://e96.ru/climat/heating/radiatory
+1176,1508,1503.0,Когтеточки,http://e96.ru/tovary_dlja_koshek/kogtetochki
+1177,715,685.0,Вибротренажеры,http://e96.ru/sporting_goods/trainers/vibrotrenajery
+1178,701,1002.0,Ножи туристические,http://e96.ru/tourism/travel_gear/noji_turisticheskie
+1179,1105,73.0,Телефоны для дома и офиса,http://e96.ru/phones/telephones_for_home_and_office
+1180,1350,1346.0,Табуреты,http://e96.ru/furniture/kitchen/tabureti_dlya_kuhni
+1181,1550,1142.0,GPS трекеры,http://e96.ru/avto/auto_electronics/gps_trekery
+1182,1410,110.0,Штанги для фототехники,http://e96.ru/foto/tripods/shtangi_dlya_fototehniki
+1183,1112,81.0,Оргтехника и расходные материалы,http://e96.ru/computers/office_equipment_and_supplies
+1184,90,1112.0,Принтеры,http://e96.ru/computers/office_equipment_and_supplies/printery
+1185,932,1086.0,Гвоздодеры,http://e96.ru/tools/hand_tools/gvozdodery
+1186,218,1249.0,Сковороды,http://e96.ru/kitchen_appliance/crockery/skovorody
+1187,1229,1200.0,Споты,http://e96.ru/household_appliances/lighting/spoty
+1188,433,1176.0,Крепеж для монтажа санфаянса,http://e96.ru/sanitary_engineering/sanfayans/krepej_dlya_sanfayansa
+1189,495,1083.0,Компрессоры,http://e96.ru/tools/pneumotool/kompressory
+1190,1284,1344.0,Комоды,http://e96.ru/furniture/bedroom/komody
+1191,654,1160.0,Аккумуляторы для видеокамер,http://e96.ru/audio_video/cameras/akkumulyatory_dlya_videokamer
+1192,1408,1104.0,Дисплеи,http://e96.ru/phones/cell_phones/displei
+1193,1361,1347.0,Стеллажи для офиса,http://e96.ru/furniture/office/stellaji_dlya_ofisa
+1194,939,1086.0,Напильники,http://e96.ru/tools/hand_tools/napilniki
+1195,485,1142.0,Инверторы,http://e96.ru/avto/auto_electronics/invertory
+1196,71,70.0,Подарочные сертификаты интернет-магазина e96.ru,http://e96.ru/podarochnye_sertifikaty/sert
+1197,94,1106.0,Аккумуляторы для сотовых телефонов,http://e96.ru/phones/chargers_and_batteries_for_phones/akkumuljatory
+1198,1079,129.0,Шлифовальное оборудование,http://e96.ru/tools/grinding_equipment
+1199,1067,1010.0,Поливочные шланги,http://e96.ru/garden_cottage/watering_equipment/polivichnie_shlangi
+1200,1027,1003.0,Туристические кружки,http://e96.ru/tourism/utensils_for_tourism/turisticheskie_krujki
+1201,78,1246.0,Хлебопечки,http://e96.ru/kitchen_appliance/small/hlebopechi
+1202,941,1204.0,Ведра для дома,http://e96.ru/household_appliances/homeware/vedra_dlya_doma
+1203,1189,1182.0,Отопление,http://e96.ru/climat/heating
+1204,1237,1192.0,Термокабель для обогрева труб,http://e96.ru/climat/warm_floor/termokabel_dlya_obogreva_trub
+1205,535,1041.0,Детские музыкальные инструменты,http://e96.ru/kids/toys/detskie_muzykal_nye_instrumenty
+1206,204,1016.0,Культиваторы,http://e96.ru/garden_cottage/cultivators/kultivatory
+1207,570,1143.0,Домкраты,http://e96.ru/avto/auto_accessories/domkraty
+1208,203,1017.0,Мотопомпы,http://e96.ru/garden_cottage/plumbing_for_garden/motopompy
+1209,1454,1203.0,Пьяные рулетки,http://e96.ru/household_appliances/presents/pyanye_ruletki
+1210,1731,1251.0,Выдвижные мусорные системы,http://e96.ru/kitchen_appliance/goods/vydvijnye_musornye_sistemy
+1211,1110,81.0,Персональные компьютеры,http://e96.ru/computers/pc
+1212,169,1142.0,Бортовые компьютеры,http://e96.ru/avto/auto_electronics/bortovye_kompjutery
+1213,38,1248.0,Кофемолки,http://e96.ru/kitchen_appliance/tea_and_coffee/kofemolki
+1214,1219,1197.0,Паровые швабры,http://e96.ru/household_appliances/steamers/parovye_shvabry
+1215,1388,1384.0,Обои,http://e96.ru/finishes/wallpaper
+1216,1086,129.0,Ручной инструмент,http://e96.ru/tools/hand_tools
+1217,1228,1200.0,Светильники,http://e96.ru/household_appliances/lighting/svetilniki
+1218,1095,1075.0,Электроотвертки,http://e96.ru/tools/drills/elektro_otvertky
+1219,1010,1007.0,Поливочное оборудование,http://e96.ru/garden_cottage/watering_equipment
+1220,976,1345.0,Диваны,http://e96.ru/furniture/living_room/divany
+1221,1303,1088.0,Мультиметры,http://e96.ru/tools/measuring_tools/multimetry
+1222,523,1045.0,Автотреки,http://e96.ru/kids/toy_trucks/avtotreki
+1223,5,1156.0,Home theatres,http://e96.ru/audio_video/audio/domashnie_kinoteatry
+1224,1496,1514.0,Туалетная вода для женщин,http://e96.ru/parfjumerija/tualetnaja_voda_dlja_zhenshhin
+1225,510,1036.0,Манежи,http://e96.ru/kids/furniture_and_accessories/maneji
+1226,264,1002.0,Фонари,http://e96.ru/tourism/travel_gear/fonari
+1227,1179,206.0,Принадлежности для ванной комнаты,http://e96.ru/sanitary_engineering/bathroom_accessories
+1228,1050,1009.0,Триммеры,http://e96.ru/garden_cottage/lawn_care/trimmeri
+1229,1296,1143.0,Автомобильные подкрылки,http://e96.ru/avto/auto_accessories/avtomobilnye_podkrylki
+1230,963,110.0,Триподы,http://e96.ru/foto/tripods/tripodi
+1231,1583,1577.0,Прикроватные тумбы IKEA,http://e96.ru/ikea/spalnya_ikea/prikrovatnye_tumby
+1232,733,1189.0,Комплекты для подключения радиаторов,http://e96.ru/climat/heating/podklyuchenie_radiatorov
+1233,1040,304.0,Куклы и наборы для кукол,http://e96.ru/kids/dolls
+1234,17,1198.0,Hoovers,http://e96.ru/household_appliances/cleaners/pylesosy
+1235,201,1115.0,Компьютерные микрофоны,http://e96.ru/computers/multimedia/kompyuternye_mikrofony
+1236,929,1208.0,Фотоэпиляторы,http://e96.ru/household_appliances/shaving/fotoepilyatory
+1237,1077,129.0,Термопистолеты и тепловые пушки,http://e96.ru/tools/thermo_and_thermal_guns
+1238,1452,1203.0,Серьги и кольца,http://e96.ru/household_appliances/presents/kolca
+1239,785,778.0,Ракетки для настольного тенниса,http://e96.ru/sporting_goods/ping_pong/raketki_dlya_nastolnogo_tennisa
+1240,872,871.0,Хоккейные коньки,http://e96.ru/sporting_goods/hockey/hokkeynye_konki
+1241,834,793.0,Стрелы для лука,http://e96.ru/sporting_goods/bows_crossbows_slingshots/strely_dlya_luka
+1242,275,1084.0,Строительные удлинители,http://e96.ru/tools/fixtures_and_equipment/stroitelnye_udliniteli
+1243,1313,1343.0,Вешалки,http://e96.ru/furniture/hallway/veshalki
+1244,992,990.0,Медали,http://e96.ru/sporting_goods/sports_awards/medaly
+1245,1417,1002.0,Металлоискатели,http://e96.ru/tourism/travel_gear/metalloiskateli
+1246,892,769.0,Кимоно,http://e96.ru/sporting_goods/martial_arts/kimono
+1247,805,802.0,Дротики для дартса,http://e96.ru/sporting_goods/darts/drotiki_dlya_dartsa
+1248,513,1171.0,Душевые шланги,http://e96.ru/sanitary_engineering/faucets/dushevye_shlangi
+1249,309,1370.0,Настенные часы,http://e96.ru/household_appliances/watch/nastennye_chasy
+1250,270,46.0,Средства для чистки варочных поверхностей,http://e96.ru/built_in/sredstva_dlja_chistki_varochnykh_poverkhnostejj
+1251,1137,39.0,Сигнализации,http://e96.ru/avto/alarm
+1252,1462,1203.0,Держатели для ключей,http://e96.ru/household_appliances/presents/derjateli_dlya_klyuchey
+1253,281,1142.0,Автомобильные держатели,http://e96.ru/avto/auto_electronics/avtomobilnye_derjateli
+1254,993,1175.0,Полотенца,http://e96.ru/furniture/bathroom/polotenca
+1255,1434,1143.0,Комплекты подключения ресивера,http://e96.ru/avto/auto_accessories/komplekty_podklyucheniya_resivera
+1256,751,1006.0,Механические насосы,http://e96.ru/tourism/pumps_for_inflatable_products/mehanicheskie_nasosy
+1257,479,1076.0,Долота для перфораторов и отбойных молотков,http://e96.ru/tools/hammers/dolota
+1258,1883,1093.0,Паяльники для труб,http://e96.ru/tools/power_equipment/payalniki_dlya_trub
+1259,800,1194.0,Трубы с наконечником для дымохода,http://e96.ru/climat/chimneys/truby_s_nakonechnikom
+1260,937,1075.0,Зарядные устройства для электроинструмента,http://e96.ru/tools/drills/zaryadnye_ustroystva
+1261,1309,1088.0,Нивелиры,http://e96.ru/tools/measuring_tools/niveliry
+1262,1320,1345.0,Шкафы для гостиной,http://e96.ru/furniture/living_room/shkafy_dlya_gostinoy
+1263,1463,1042.0,Линейки,http://e96.ru/kids/school_goods/lineyki
+1264,958,957.0,Фотовспышки,http://e96.ru/foto/photo_light/fotovspyshki
+1265,1082,129.0,Станки,http://e96.ru/tools/machine_tools
+1266,765,683.0,Большой теннис,http://e96.ru/sporting_goods/tennis
+1267,1051,1009.0,Роботы газонокосилки,http://e96.ru/garden_cottage/lawn_care/roboty_gazonokosilki
+1268,691,689.0,Пневматические винтовки,http://e96.ru/sporting_goods/airguns/pnevmaticheskie_vintovki
+1269,155,1077.0,Технические фены,http://e96.ru/tools/thermo_and_thermal_guns/tehnicheskie_feny
+1270,1687,1660.0,Накладные вентиляторы,http://e96.ru/climat/ventilation/nakladnye_ventilyatory
+1271,54,46.0,Встраиваемые микроволновые печи,http://e96.ru/built_in/svch_pechi
+1272,1576,1571.0,Освещение IKEA,http://e96.ru/ikea/gostinaya_ikea/osveschenie_ikea
+1273,588,1252.0,Наборы для фондю,http://e96.ru/kitchen_appliance/parties/fondju
+1274,1416,1112.0,Ламинаторы,http://e96.ru/computers/office_equipment_and_supplies/laminatory
+1275,1554,1504.0,Поводки и ошейники,http://e96.ru/zootovary/tovary_dlja_sobak/povodki_osheyniki
+1276,860,1047.0,Детские карнавальные костюмы,http://e96.ru/kids/pretend_play/detskie_karnavalnye_kostyumy
+1277,1116,81.0,Устройства ввода,http://e96.ru/computers/input_devices
+1278,1090,1045.0,Транспорт,http://e96.ru/kids/toy_trucks/transport
+1279,1308,1088.0,Теодолиты,http://e96.ru/tools/measuring_tools/teodolity
+1280,716,685.0,Эллиптические тренажеры,http://e96.ru/sporting_goods/trainers/ellipticheskie_trenajery
+1281,348,1009.0,Аксессуары для триммеров,http://e96.ru/garden_cottage/lawn_care/aksessuary_dlja_trimmerov
+1282,131,1076.0,Перфораторы,http://e96.ru/tools/hammers/perforatory
+1283,1248,24.0,Чай и кофе,http://e96.ru/kitchen_appliance/tea_and_coffee
+1284,1719,1715.0,Кроватки для малышей IKEA,http://e96.ru/ikea/detskaya_ikea/krovatki_dlya_malyshey_ikea
+1285,107,1198.0,Пылесборники,http://e96.ru/household_appliances/cleaners/pylesborniki
+1286,627,1038.0,Канаты,http://e96.ru/kids/baby_complexes/kanaty
+1287,1302,1088.0,Толщиномеры,http://e96.ru/tools/measuring_tools/tolschinomery
+1288,346,1075.0,Сверла и наборы сверл,http://e96.ru/tools/drills/sverla
+1289,1254,1252.0,Шоколадные фонтаны,http://e96.ru/kitchen_appliance/parties/shokoladnye_fontany
+1290,908,847.0,Велосипедные перчатки,http://e96.ru/sporting_goods/cycle_racing/velosipednye_perchatki
+1291,846,845.0,Автоматы для страйкбола,http://e96.ru/sporting_goods/strikeball/avtomaty_dlya_straykbola
+1292,46,,Встраиваемая техника,http://e96.ru/built_in
+1293,560,1037.0,Горки для купания,http://e96.ru/kids/goods_for_newborns/gorki_dlja_kupanija
+1294,1002,175.0,Туристическое снаряжение,http://e96.ru/tourism/travel_gear
+1295,366,1041.0,Мягкие игрушки,http://e96.ru/kids/toys/mjagkie_igrushki
+1296,383,1037.0,Стерилизаторы,http://e96.ru/kids/goods_for_newborns/sterilizatory
+1297,105,1117.0,Флешки,http://e96.ru/computers/recording_media/fleshki
+1298,16,,Товары для дома,http://e96.ru/household_appliances
+1299,151,1113.0,Оптические приводы,http://e96.ru/computers/accessories/opticheskie_privody
+1300,411,1177.0,Системы инсталляции,http://e96.ru/sanitary_engineering/installation_systems/installjacii
+1301,185,1114.0,Стабилизаторы напряжения,http://e96.ru/computers/power_protection_devices/stabilizatory_napryajeniya
+1302,358,1198.0,Насадки для пылесосов,http://e96.ru/household_appliances/cleaners/nasadki_dlja_pylesosov
+1303,1585,1577.0,Открытые системы хранения IKEA,http://e96.ru/ikea/spalnya_ikea/otkrytye_sistemy_hraneniya_ikea
+1304,1235,1192.0,Инфракрасный теплый пол,http://e96.ru/climat/warm_floor/infrakrasnyy_teplyy_pol
+1305,1317,1315.0,Трансмиссионные масла,http://e96.ru/avto/car_oil/transmissionnye_masla
+1306,1014,1007.0,Бассейны,http://e96.ru/garden_cottage/pools
+1307,989,1344.0,Матрасы,http://e96.ru/furniture/bedroom/matrasy
+1308,574,1035.0,Бортики в кроватку,http://e96.ru/kids/baby_cribs/bortiki_v_krovatku
+1309,705,1003.0,Котелки,http://e96.ru/tourism/utensils_for_tourism/kotelki
+1310,1283,1345.0,Тумбы для гостиной,http://e96.ru/furniture/living_room/tumby_dlya_gostinoy
+1311,1329,1348.0,Шкафы для детской,http://e96.ru/furniture/kids_room/shkafy_dlya_detskoy
+1312,114,1111.0,Электронные книги,http://e96.ru/computers/el_books_readers/elektronnye_knigi
+1313,759,1036.0,Детские настенные светильники,http://e96.ru/kids/furniture_and_accessories/detskie_nastennye_svetilniki
+1314,368,1041.0,Надувные игрушки,http://e96.ru/kids/toys/naduvnye_igrushki
+1315,558,1036.0,Пеленальные комоды,http://e96.ru/kids/furniture_and_accessories/pelenalnye_komody
+1316,1586,1570.0,Столовая IKEA,http://e96.ru/ikea/stolovaya_ikea
+1317,541,1041.0,Подвижные игры,http://e96.ru/kids/toys/podvizhnye_igry
+1318,367,1040.0,Куклы,http://e96.ru/kids/dolls/kukly
+1319,297,46.0,Рамки для вытяжек,http://e96.ru/built_in/ramki_dlja_vytjazhek
+1320,782,779.0,Маски для плавания,http://e96.ru/sporting_goods/swimming/maski_dlya_plavaniya
+1321,899,684.0,Суппорты,http://e96.ru/sporting_goods/weightlifting/supporty
+1322,435,1192.0,Теплые полы,http://e96.ru/climat/warm_floor/terplye_poly
+1323,867,856.0,Секундомеры,http://e96.ru/sporting_goods/measuring_devices/sekundomery
+1324,770,769.0,Груши,http://e96.ru/sporting_goods/martial_arts/grushi
+1325,1075,129.0,"Дрели, шуруповерты, гайковерты",http://e96.ru/tools/drills
+1326,237,1211.0,Массажные ванночки для ног,http://e96.ru/household_appliances/health_and_beauty/massajnye_vannochki_dlya_nog
+1327,832,779.0,Ласты,http://e96.ru/sporting_goods/swimming/lasty
