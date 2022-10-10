@@ -11,4 +11,4 @@ I used `R` and the following libraries for data cleaning, analysis and visualiza
  - tidyr
  - vcd
  
- #### Please check out [pdf](CU_shooting_project.pdf), [html](CU_shooting_project.html) and [rmd](CU_shooting_project.rmd) versions of this project.
+ #### Please check out [pdf](CU_shooting_project.pdf), [html](CU_shooting_project.html) and [rmd](CU_shooting_project.Rmd) versions of this project.
