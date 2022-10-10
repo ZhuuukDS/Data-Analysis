@@ -3,7 +3,9 @@
 
 <img src='gen.png' height=250>
 
-In this project I explored the 'First-move advantage in chess' thesis.
+#### Task Formulation
+
+In this project I explored the __'First-move advantage in chess'__ thesis.
 
 There is a general consensus among chess players and theorists that the player who makes the first move (White) has an inherent advantage.
 So, I tried to check this statement statistically using `R` based on the dataset from [Kaggle](https://www.kaggle.com/datasets/datasnaek/chess).
