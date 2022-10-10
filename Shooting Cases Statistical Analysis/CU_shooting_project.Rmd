@@ -1,0 +1,425 @@
+---
+title: "NYPD shooting cases analysis"
+author: "Alex Zhukov"
+date: '2022-06-27'
+output:
+  html_document: default
+  pdf_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+## Overview
+
+This project is to show the simple analysis of the shooting cases based on NYPD data collected from 2006 to 2021.
+
+We'll use `R` and the following libraries for data cleaning, analysis and visualization are needed:
+
+```{r libraries, echo=TRUE, message=FALSE}
+library(ggplot2)
+library(dplyr)
+library(lubridate)
+library(tidyr)
+library(vcd)
+```
+
+## Importing Data
+
+First, let's import data from <https://data.cityofnewyork.us/api/views/833y-fsy8/rows.csv?accessType=DOWNLOAD>
+
+```{r import}
+original_data <- read.csv('https://data.cityofnewyork.us/api/views/833y-fsy8/rows.csv?accessType=DOWNLOAD')
+```
+
+Let's have a glance on the data
+
+```{r glance, echo =TRUE}
+str(original_data)
+```
+
+There are in total 19 variables. Some of them can be interesting and some of them we won't use.
+
+## Tidying and Transforming Data
+
+Let's remove some of the variables, rename those that we can be interested in, change empty and incorrect values to 'Unknown' and put it all in a new data frame. 
+
+```{r tidying, echo=TRUE}
+cleaned_df <- original_data %>%
+  select(-c(INCIDENT_KEY, OCCUR_TIME, PRECINCT, JURISDICTION_CODE, LOCATION_DESC, X_COORD_CD, Y_COORD_CD, Latitude, Longitude, Lon_Lat)) %>%
+  rename(Date = OCCUR_DATE, Area = BORO, Murdered = STATISTICAL_MURDER_FLAG) %>%
+  mutate(Murdered = if_else(Murdered == 'true', 1, 0),
+         PERP_SEX = if_else(PERP_SEX == '', 'UNKNOWN', PERP_SEX),
+         PERP_RACE = if_else(PERP_RACE == '', 'UNKNOWN', PERP_RACE),
+         PERP_AGE_GROUP = if_else(PERP_AGE_GROUP %in% c('', '224', '1020', '940'), 'UNKNOWN', PERP_AGE_GROUP))
+  
+cleaned_df$PERP_RACE[cleaned_df$PERP_RACE == 'AMERICAN INDIAN/ALASKAN NATIVE'] <- 'AM. INDIAN/ALASKAN'
+cleaned_df$VIC_RACE[cleaned_df$VIC_RACE == 'AMERICAN INDIAN/ALASKAN NATIVE'] <- 'AM. INDIAN/ALASKAN'
+```
+
+Let's see what we have now:
+
+```{r first_look, echo=TRUE}
+str(cleaned_df)
+```
+
+Now, let's format dates to date type and factorize variables of age groups, sex and race for both perpetrators and victims.
+
+```{r cleaned_data, echo=TRUE}
+cleaned_df$Date <- mdy(cleaned_df$Date)
+cols <- c('Area', 'PERP_AGE_GROUP','PERP_SEX', 'PERP_RACE', 'VIC_AGE_GROUP', 'VIC_SEX', 'VIC_RACE')
+cleaned_df[cols] <- lapply(cleaned_df[cols], factor)
+
+str(cleaned_df)
+```
+
+## Visualising Data
+
+Let's first take a look at the number of cases per day during the entire period.
+
+```{r theme, echo=FALSE}
+p <- theme(axis.text.x = element_text(color="#993333", size=4, angle=90),
+           axis.text.y = element_text(face="bold", color="#993333", size=5),
+           legend.text = element_text(size=5),
+           title = element_text(face='bold', size=10))
+```
+
+```{r all_cases-per-day, echo=TRUE}
+cleaned_df %>%
+  group_by(Date) %>%
+  summarize(Cases = n()) %>%
+  ggplot(aes(x = Date, y = Cases))+
+  geom_point(size=.3, color='blue')+
+  ggtitle('Shooting Incidents Per Day') + 
+  scale_x_date(date_breaks = "6 month", date_labels = "%Y/%m") + p
+```
+
+It's rather difficult to look at all of the daily cases, so let's group them by months and see the trends if any.
+
+```{r all_cases-per-month, echo=TRUE}
+cleaned_df %>%
+  mutate(Month = format(cleaned_df$Date, "%Y-%m")) %>%
+  group_by(Month) %>%
+  summarize(Cases = n()) %>%
+  ggplot(aes(x = Month, y = Cases))+
+  geom_point(size=.3, color='blue')+
+  geom_line(group=1, color='blue')+
+  ggtitle('Shooting Incidents Per Month')+
+  xlab('Months')+ p
+```
+Now let's add number of murders in that monthly plot.
+
+```{r cases+deaths-per-month, echo=TRUE}
+cleaned_df %>%
+  mutate(Month = format(cleaned_df$Date, "%Y-%m")) %>%
+  group_by(Month) %>%
+  summarise(Cases = n(), Deaths = sum(Murdered)) %>%
+  filter(Cases > 0 & Deaths > 0) %>%
+  ggplot(aes(x = Month, y= Cases))+
+  geom_line(aes(group = 1, color='Cases')) +
+  geom_point(aes(color='Cases')) +
+  geom_line(aes(y=Deaths, group = 2, color='Deaths')) +
+  geom_point(aes(y=Deaths, color='Deaths'))+ p
+```
+
+Seems that there are some fluctuations in the number of incidents every six months, plus we see that there were minimum number of incidents between 2017 and 2019, and then it drastically increased.
+
+Now, let's split the observations by the areas and analyze it.
+
+``` {r monthly_cases_by_area, echo=TRUE, message=FALSE, warning=FALSE}
+cleaned_df %>%
+  mutate(Month = format(cleaned_df$Date, "%Y-%m")) %>%
+  group_by(Month, Area) %>%
+  summarise(Cases = n()) %>%
+  filter(Cases > 0) %>%
+  ggplot(aes(x = Month, y = Cases, col = Area, group = Area))+
+  geom_point(size=1)+
+  geom_line()+
+  ggtitle('Monthly Shooting Cases per Area')+
+  xlab('Months') +p
+```
+
+According to the plot, the area with a maximum number of monthly incidents is Brooklyn, followed by Bronx. Staten Island seems to be an area with a least number of cases. 
+
+Now let's see the trends.
+
+```{r area_trends, echo=TRUE, message=FALSE, warning=FALSE}
+cleaned_df %>%
+  mutate(Month = format(cleaned_df$Date, "%Y-%m")) %>%
+  group_by(Month, Area) %>%
+  summarise(Cases = n()) %>%
+  ggplot(aes(x = Month, y = Cases, col = Area, group = Area))+
+  geom_smooth()+
+  ggtitle('Monthly Shooting Cases per Area')+
+  xlab('Months') + p
+```
+
+As it was noted earlier, there's an increase of cases in the last 3 years in all areas except Staten Island, where the number of incidents is constantly low and even throughout the entire timeframe.
+
+Now let's look at the age groups of the participants in the incident in the different areas.
+
+```{r age_and_area, echo=TRUE, message=FALSE, warning=FALSE}
+cleaned_df %>%
+  group_by(Area, PERP_AGE_GROUP, VIC_AGE_GROUP) %>%
+  summarise(Cases=n(), Deaths=sum(Murdered)) %>%
+  ggplot(aes(x = VIC_AGE_GROUP, y = PERP_AGE_GROUP, col=Deaths))+
+  geom_count(aes(col=Deaths, size = Cases)) +
+  scale_size_area(max_size = 10) +
+  scale_colour_gradient(low="blue", high="red")+
+  facet_grid(Area~.) + 
+  xlab('Victim Age Group')+
+  ylab('Perp Age Group') + p
+```
+
+Unfortunately, there are many incidents in which we don't know the age of the 
+criminal, and these incidents seem to be the most deadly.
+
+Next we'll look at the race of the perpetrator in all incidents.
+
+```{r perp_race, echo=TRUE}
+cleaned_df %>%
+  group_by(PERP_RACE) %>%
+  summarise(Cases=n(), Deaths=sum(Murdered)) %>%
+  gather(key = var, value = value, Cases, Deaths) %>%
+  ggplot(color='black', aes(x = PERP_RACE, y = value, fill = var)) +
+  geom_col(group=1, position='dodge', color='black') + 
+  xlab('Perp Race')+
+  ylab('Cases') +
+  theme(axis.text.x = element_text(color="#993333", size=5),
+        axis.text.y = element_text(face="bold", color="#993333", size=5),
+        legend.text = element_text(size=10),
+        legend.title = element_blank(),
+        title = element_text(face='bold', size=10))
+```
+
+And here is a split by area:
+
+
+```{r perp_race_area, echo=TRUE, message=FALSE, warning=FALSE}
+cleaned_df %>%
+  group_by(Area, PERP_RACE) %>%
+  summarise(Cases=n(), Deaths=sum(Murdered)) %>%
+  gather(key = var, value = value, Cases, Deaths) %>%
+  ggplot(aes(x = PERP_RACE, y = value, fill = var)) +
+  geom_bar(stat = 'identity', position='dodge', color='black')+
+  facet_grid(Area~.) + 
+  xlab('Perp Race')+
+  ylab('Cases') + p + theme(legend.title = element_blank())
+```
+
+## Modeling data
+
+The main idea is to calculate the odds of being murdered during the shooting incidents depending on the predictors in the original data. Here we will not count the probability to get into an incident in a certain area, as the number of cases depending on the area was clearly seen earlier. We will focus on the model showing what factors significantly change the chances to be killed. 
+
+So, let's first put some nominative predictors from original data into a separate data frame to make a logistic regression and remove observations where age values are unknown.
+
+And here we look at the cases indicated with murdered flag which include sex and age group of both perpetrator and victim, and also an area where the incident happened.
+
+```{r data_for_models, echo=TRUE}
+df_for_models <- cleaned_df %>%
+  filter(VIC_AGE_GROUP != 'UNKNOWN', PERP_AGE_GROUP != 'UNKNOWN', VIC_SEX != 'U') %>%
+  mutate(Murdered = factor(if_else(Murdered == 1, 'Y', 'N'))) %>%
+  select(Murdered, Area, VIC_SEX, VIC_AGE_GROUP, PERP_AGE_GROUP)
+
+df_for_models$VIC_SEX <- droplevels(df_for_models$VIC_SEX)
+df_for_models$VIC_AGE_GROUP <- droplevels(df_for_models$VIC_AGE_GROUP)
+df_for_models$PERP_AGE_GROUP <- droplevels(df_for_models$PERP_AGE_GROUP)
+
+summary(df_for_models)
+```
+
+Let's take an intercept only model:
+
+```{r intercept_only, echo=TRUE}
+simple_fit <- glm(Murdered ~ 1, df_for_models, family = "binomial")
+coef(simple_fit)
+```
+This negative number is a logarithm of odds of being murdered in a shooting incident regardless of any other influencing factors.
+In other words this the logarithm of a fraction of total murders and incidents.
+
+```{r logit}
+table(df_for_models$Murdered)
+odds <- 3100 / 9946
+odds
+log(odds)
+```
+Let's take a look on a logistic regression where a dependent variable is a  factor 'Murdered' and it depends on all other predictors.
+
+```{r all_predictors, echo=TRUE}
+fits <- glm(Murdered ~ . , df_for_models, family = "binomial")
+summary(fits)
+anova(fits, test="Chisq")
+```
+
+Firstly, we see that this model significantly improves our intercept only model. Also, we can see that victim sex and area don't have an impact on the model, whereas age groups of both perpetrators and victims have a significant influence.
+
+Indeed, if we look at the mosaic plot, we can see that although the amount of cases and deaths of males and females vary a lot, the incident-murders ratio  remains almost the same in each area for both genders
+
+```{r mosaic_sex_area, echo=TRUE}
+mosaic(Murdered ~ VIC_SEX | Area, data=df_for_models,
+       highlighting_fill = c("lightblue", "pink"),
+       labeling = labeling_border(rot_labels = c(0), 
+                                  gp_labels = gpar(fontsize = 6),
+                                  set_varnames = c(VIC_SEX="Gender"),
+                                  gp_varnames = gpar(fontsize = 10)
+                                  )
+       )
+```
+
+The most interesting deviations are in age groups:
+
+```{r mosaic_age_groups, echo=TRUE}
+mosaic(Murdered ~ PERP_AGE_GROUP | VIC_AGE_GROUP, data=df_for_models,
+       highlighting_fill = c("lightblue", "pink"),
+       labeling = labeling_border(rot_labels = c(0), 
+                                  gp_labels = gpar(fontsize = 6),
+                                  set_varnames = c(PERP_AGE_GROUP='Perpetrator Age', VIC_AGE_GROUP='Victim Age'),
+                                  gp_varnames = gpar(fontsize = 10)
+       ))
+```
+
+Moreover, although the area of an incident doesn't significantly impacts on the odds of being killed, we can see below that victims of different age group have different case-death ratio depending on the region.
+
+```{r mosaic_vic_age_area, echo=TRUE}
+mosaic(Murdered ~ VIC_AGE_GROUP | Area, data=df_for_models,
+       highlighting_fill = c("lightblue", "pink"),
+       labeling = labeling_border(rot_labels = c(0), 
+                                  gp_labels = gpar(fontsize = 6),
+                                  set_varnames = c(VIC_AGE_GROUP='Victim Age'),
+                                  gp_varnames = gpar(fontsize = 10)
+       ))
+```
+
+And the same is for perpetrators of different age groups:
+
+```{r mosaic_perp_age_area, echo=TRUE}
+mosaic(Murdered ~ PERP_AGE_GROUP | Area, data=df_for_models,
+       highlighting_fill = c("lightblue", "pink"),
+       labeling = labeling_border(rot_labels = c(0), 
+                                  gp_labels = gpar(fontsize = 6),
+                                  set_varnames = c(PERP_AGE_GROUP='Perpetrator Age'),
+                                  gp_varnames = gpar(fontsize = 10)
+       ))
+```
+
+All of these observations have to be analyzed and checked.
+
+First, let's prove that victim sex is not statistically significant and it doesn't improve our model:
+
+```{r fit_sex, echo=TRUE}
+fit_sex <- glm(Murdered ~ VIC_SEX, df_for_models, family = "binomial")
+coef(fit_sex)
+summary(fit_sex)
+table(df_for_models$Murdered, df_for_models$VIC_SEX)
+anova(simple_fit, fit_sex, test="Chisq")
+```
+Here our Intercept is a female and changing the gender to male doesn't have a significant impact.
+
+Secondly, let's prove that age groups of both perpetrators and victims significantly improve our model:
+
+```{r fit_vic_age, echo=TRUE, warning=FALSE, message=FALSE}
+
+fit_vic_age <- glm(Murdered ~ VIC_AGE_GROUP, df_for_models, family = "binomial")
+coef(fit_vic_age)
+summary(fit_vic_age)
+table(df_for_models$Murdered, df_for_models$VIC_AGE_GROUP)
+anova(simple_fit, fit_vic_age, test="Chisq")
+mosaic(Murdered ~ VIC_AGE_GROUP, data=df_for_models,
+      highlighting_fill = c("lightblue", "pink"),
+       labeling = labeling_border(rot_labels = c(0), 
+                                  gp_labels = gpar(fontsize = 6),
+                                  set_varnames = c(VIC_AGE_GROUP="Victim Age"),
+                                  gp_varnames = gpar(fontsize = 10)
+                                  )
+       )
+```
+```{r fit_perp_age, echo=TRUE}
+fit_perp_age <- glm(Murdered ~ PERP_AGE_GROUP, df_for_models, family = "binomial")
+coef(fit_perp_age)
+summary(fit_perp_age)
+table(df_for_models$Murdered, df_for_models$PERP_AGE_GROUP)
+anova(simple_fit, fit_perp_age, test="Chisq")
+```
+
+So, let's make the model with two categorical predictors of age groups, which should be significantly important.
+
+```{r fit_ages, echo=TRUE}
+fit_ages <- glm(Murdered ~ VIC_AGE_GROUP * PERP_AGE_GROUP, df_for_models, family = "binomial")
+coef(fit_ages)
+summary(fit_ages)
+anova(simple_fit, fit_ages, test="Chisq")
+```
+In the next step, we can have a logistic regression depending on an area predictor. Overall, this model doesn't have a significant improvement compared to intercept only model, however we see that changing to some areas may influence on estimated odds.
+
+```{r fit_area, echo=TRUE}
+fit_area <- glm(Murdered ~ Area, df_for_models, family = "binomial")
+coef(fit_area)
+summary(fit_area)
+table(df_for_models$Murdered, df_for_models$Area)
+anova(simple_fit, fit_area, test="Chisq")
+```
+
+So, let's create a model with two predictors - age group of perpetrators and area with their dependencies. And that works fine.
+
+```{r fit_perp_age+area, echo=TRUE}
+fit_perp_age_area <- glm(Murdered ~ PERP_AGE_GROUP * Area, df_for_models, family = "binomial")
+coef(fit_perp_age_area)
+summary(fit_perp_age_area)
+anova(simple_fit, fit_perp_age_area, test="Chisq")
+```
+
+Finally, our model will include victim age group, perpetrator age group, area and their dependencies:
+
+```{r final_fit, echo=TRUE}
+fit_long <- glm(Murdered ~ VIC_AGE_GROUP + PERP_AGE_GROUP * Area, df_for_models, family = "binomial")
+summary(fit_long)
+anova(fit_long, test="Chisq")
+```
+## Running The Model
+
+Based on our final model let's make some predictions. First, let's imagine that a shooting incident happened in Manhattan area, both victim and perpetrator are less than 18 y.o. Seems that this would be a scenario, when a victim has maximum chances to stay alive in the shooting incident
+
+```{r predict_min, echo=TRUE}
+new_df_min <- data.frame(VIC_SEX = 'M', 
+                     VIC_AGE_GROUP = "<18", 
+                     PERP_AGE_GROUP = "<18", Area = 'STATEN ISLAND')
+predict(fit_long, newdata = new_df_min, type = "response")
+```
+And otherwise, if an accident happen in Staten Island and both victim and perpetrator are older than 65, then there are least chances for a victim to stay alive.
+
+```{r predict_max, echo=TRUE}
+new_df_max <- data.frame(VIC_SEX = 'M', 
+                         VIC_AGE_GROUP = "65+", 
+                         PERP_AGE_GROUP = "65+", Area = 'STATEN ISLAND')
+predict(fit_long, newdata = new_df_max, type = "response")
+```
+
+## Conclusion
+
+Based on the analysis, there are significant difference in the number of shooting incidents in different areas. There's also an increasing trend seen in the last 3 years.
+
+In most of the cases males involved, however the chances of being murdered are the same for both genders.
+
+The number of incidents resulting death significantly depends on the age of a perpetrator and a victim.
+
+Incidents in which both criminal and a victim are younger than 18 are the least deadly.
+
+And the most deadly cases happened in the most 'calm' area of Staten Island where participants are older than 65.
+
+In this data analysis project all the categorical variables may seem to be a source of biases. Everything here, including sex, age, race and area is a very sensitive subject.
+
+As a data scientist one have to mitigate his own personal biases and look on the data as on the list of numbers and variables regardless of his own experience, opinion etc.
+
+## Appendix
+
+Session info:
+
+```{r session_info, echo=FALSE}
+sessionInfo()
+```
+
+
+
+
