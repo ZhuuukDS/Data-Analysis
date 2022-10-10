@@ -1,0 +1,269 @@
+---
+title: "Study of the distribution of RTT-points among female tennis players under 16 years old"
+author: "Alexey Zhukov"
+date: "28.10.2020"
+output:
+  pdf_document: default
+  html_document: default
+urlcolor: blue
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE)
+```
+
+## Overview
+
+<p>This study is aimed at studying the distribution of RTT[^1] points among Russian female tennis players under the age of 16.
+  
+In the study, we will try to determine the influence of various factors on the number of rating points and identify dependencies and patterns.
+   
+Let's use the **R** language (the `r getRversion()` version) for data analysis. To compare groups of observations, methods of one-factor and two-factor analysis of variance will be used.
+
+The following libraries are will be used:
+
+```{r libraries, echo=TRUE}
+library(dplyr)
+library(tidyr)
+library(ggplot2)
+library(gplots)
+library(readxl)
+```
+
+```{r theme, echo=FALSE}
+theme <- theme_classic()+
+  theme(plot.title = element_text(colour = "red", face = "italic"),
+        legend.title = element_blank(),
+        axis.title.x = element_text(face="bold", colour="darkgreen", size = 12),
+        axis.text.x  = element_text(vjust = 0.5, color = "brown", size = 10), 
+        axis.title.y = element_text(face="bold", colour="darkblue", size = 12),
+        axis.text.y  = element_text(size = 8, hjust = 0.5, colour = "brown"),
+        panel.grid.major.y = element_line(linetype = "dotted"))
+```
+
+
+[^1]: Russian Tennis Tour
+
+## Importing Data
+
+Data for analysis downloaded from open sources:
+  
+- [Russian Tennis Tour website](https://www.rustennistur.ru/csp/rtt/RTTXEN.RatingTable.cls)  
+- [a list of Russian cities with population](http://www.rusmap.net/Население_России)
+
+```{r, echo = FALSE}
+raw.data <- read_excel("RTTdata.xlsx")
+cities <- read_excel("Cities.xlsx")
+```
+
+There are `r nrow(cities)` cities in the population list.
+The next step is to create a dataset by combining data from the RTT website and a list of cities by a key parameter - the name of the city.
+
+In the resulting dataset `r nrow(data)` of unique observations, that is, a total of `r nrow(data)` RTT-rated participants of all ages from all cities.  
+
+## Tidying and Transforming Data 
+
+```{r, echo=FALSE}
+final_data <- read.csv("final_data.csv")
+final_data <- final_data  %>%  mutate(factor.city=factor(factor.city))
+```
+To fulfill the objectives of the study, it is necessary to prepare data.
+  
+First of all, names and surnames were removed, and participants `r min(final_data$year)` - `r max(final_data$year)` years of birth were selected. Also, observations were removed from the data, in which there were no data on the number of settlements and athletes without points.
+  
+For further analysis, new variables were introduced into the dataset - the average number of points by year of birth, the city factor by population (`r levels(final_data$factor.city)`) and the average number of points by the city factor.
+  
+The data structure is as follows: 
+
+```{r, echo=F}
+str(final_data)
+```
+
+## Analysis and visualization  
+
+So, for the study purpose we selected  the data of tennis players - their age, city of residence, the number of earned PTT points and id.
+Now let's take a closer look into the data.
+  
+First of all, let's find out the distribution of tennis players: 
+  
+***Number of tennis players by year of birth***
+
+```{r, fig.width=10, fig.height=5, echo=FALSE}
+ggplot(final_data, aes(year))+
+  geom_bar(fill="brown", alpha=.8 )+
+  scale_y_continuous(breaks = seq(0,900,100), limits = c(0,800))+
+  scale_x_continuous(breaks = seq(2004,2011,1))+theme
+```
+
+Next, let's look at the distribution of players depending on the population of the city of residence:[^2]
+
+[^2]: Cities are divided into 3 factors - moscow, spb and other (with population less than 3 million people)
+  
+  
+***Number of tennis players by city type***
+
+```{r, fig.width=10, fig.height=5, echo=FALSE}
+ggplot(final_data, aes(factor.city))+
+  geom_bar(fill="brown", alpha=.8 )+
+  scale_y_continuous(breaks = seq(0,3200,100))+
+  scale_x_discrete(name = "",
+                   labels = c("Moscow","Other cities","Saint-Petersburg"))+theme
+```
+  
+
+Now let's look at the distribution of players' ages depending on the size of the city:
+  
+***Number of female tennis players by year of birth and city type***
+
+```{r, fig.width=10, fig.height=5, echo=F}
+ggplot(final_data, aes(`populationx1000`, fill = as.factor(year)))+
+  geom_histogram(binwidth = 150, color = 'black')+
+  scale_y_continuous(breaks = seq(0,900,100))+
+  xlab("Population/1000 ")+
+  ylab("count")+
+  theme
+```
+  
+The graph shows that, in general, regardless of the population of the city, the participants are distributed by age according to the general distribution *(see first graph)*. The youngest (`r max(final_data$year)` year of birth) and the oldest (`r min(final_data$year)` year of birth) tennis players are the fewest in each city, and athletes born in 2009 and 2008 are more than other ages.
+
+Now let's look at the number of RTT points of tennis players.
+  
+***Number of female tennis players with RTT points***
+
+```{r, fig.width=10, fig.height=5, echo=F}
+ggplot(final_data, aes(points, fill = as.factor(year)))+
+  geom_histogram(binwidth = 45, color="black")+
+  scale_y_continuous(name = "count", breaks = seq(0,1000,50), limits = c(0,1000))+
+  scale_x_continuous(breaks = seq(0,2000,100), limits = c(0,2000))+theme
+```
+  
+In this graph, we can see that older female tennis players have larger number of points. Conversely, the youngest athletes do not have so many points. This is an obvious and logical conclusion. Thus, the first conclusion that we will try to confirm statistically is that *the number of RTT points depends on the age of the athlete*[^3].
+  
+[^3]: Of course, here it is necessary to clarify that it is not age itself that affects the number of points, but experience, game practice and sports form that athlete gains with age. Since we do not have information about training time, experience in competitions and other factors that affect success in sports, we will consider a simplified model - age, as a combination of all of the above factors. 
+  
+A graph showing the average number of PTT points depending on the year of birth:
+  
+***Average number of RTT points by year of birth***  
+```{r, fig.width=10, fig.height=5, echo=F}
+  
+ggplot(final_data, aes(year, mean_points_by_year, group = "year"))+
+  ylab("points")+ xlab("year")+
+  geom_line(color = "blue", size = 1.4, alpha = .5)+
+  geom_point(color = "blue", size = 4)+
+  geom_point(color = "brown", size = 2)+
+  scale_x_continuous(breaks = c(2004,2005,2006,2007,2008,2009,2010,2011))+
+  scale_y_continuous(breaks = seq(0,800,50))+theme
+```
+  
+Let's move on to statistical analysis.
+  
+First of all, let's find the main statistical indicators (*number of observations, mean value, standard deviation, first and third quartiles*) for observations grouped by city and year: 
+  
+```{r, echo = F, collapse=FALSE}
+stats <- final_data %>% 
+  group_by(year, factor.city) %>% 
+  summarise(n = n(),
+            mean = round(mean(points, na.rm = TRUE),2),
+            sd = round(sd(points, na.rm = T), 2),
+            median = median(points, na.rm = T),
+            first_quartile = quantile(points, 0.25, na.rm = T),
+            third_quartile = quantile(points, 0.75, na.rm = T))
+as.data.frame(stats)
+```
+  
+The resulting values can be plotted:
+  
+```{r, fig.width=10, fig.height=5, echo=F}
+ggplot(stats, aes(as.factor(year), mean))+
+  geom_boxplot(fill="red")+
+  scale_y_continuous(name = "mean", breaks = seq(0,800,50), limits = c(0,800))+
+  xlab("year")+
+  theme
+```
+  
+According to the data, the average scores differ markedly depending on the year of birth of the participants (which we already assumed earlier), but in addition to this, there is also a certain dependence on the type of city.
+  
+Let us take as a hypothesis that the number of points is higher for athletes from larger cities and, accordingly, less for tennis players from less populated cities.
+
+To prove or disprove our theories, it is necessary to carry out an analysis of variance on groups of observations.
+   
+*First, let's apply an ANOVA to check if the nominative variable Year of Birth really affects the quantitative variable Points*
+  
+```{r group, echo=T, include=F}
+final_data %>% group_by(year) %>% summarize(mean=mean(points))
+```
+
+```{r, echo=T}
+final_data$year <- factor(final_data$year)
+fit1 <- aov(points ~ year, final_data)
+summary(fit1)
+```
+Analysis of variance showed that the year of birth affects the number of points **(F=177.8, p-value = 2e-16)**, because since the *p-value* is less than 0.05, we must reject the null hypothesis that one variable does not affect the other and accept the alternative hypothesis.
+  
+However, we have `r length(levels(final_data$year))` levels of the year of birth factor, i.e. we consider female tennis players `r levels(final_data$year)` born years. The obtained results do not allow us to assert that there are differences between all groups. To understand between which groups (factor levels) there are differences, it is necessary to compare them in pairs. To do this, we use Tukey test (*Tukey's HSD test*):
+
+```{r, echo=FALSE}
+TukeyHSD(fit1)
+```
+  
+The result of applying the test are pairwise comparisons of all years of birth with each other.
+In this case, the null hypothesis is that there are no differences between pairs of groups. As a result, we see that the p-significance level is less than 0.05 for all comparisons, except for the pairs 2008-2009, 2009-2010, 2009-2011 and 2010-2011, which tells us that the differences in the average number of points between these groups (years ) are statistically insignificant.
+  
+Next, we will test the hypothesis about the influence of the city, or rather, the population factor, on the number of points.
+In this case, we will also apply analysis of variance (ANOVA).
+  
+```{r, echo=F, include=F}
+final_data %>% group_by(factor.city) %>% summarize(mean=mean(points))
+```
+```{r, echo=F}
+fit2 <- aov(points ~ factor.city, final_data)
+summary(fit2)
+```
+  
+Indeed, it can be argued that the city population factor affects the number of points (*p-value < 0.05*).
+
+However, in this case, we have `r length(levels(final_data$factor.city))` factor levels of the independent variable - `r levels(final_data$factor.city)`. Let's find the differences between the groups by comparing them in pairs using Tukey's test. 
+
+```{r, echo=F}
+TukeyHSD(fit2)
+```
+As a result, we see that there are significant differences (*p-value < 0.05*) only between the 'moscow' and 'other' factors, i.e. between cities of less than 3 million people and Moscow. It is noteworthy that the differences between St.Petersburg and Moscow, as well as between St.Petersburg and other smaller cities, are insignificant.
+  
+So, with the help of two one-way ANOVAs, we were able to see the influence of factors on our dependent variable, the number of RTT points. We would get the same result when conducting one two-way analysis (**Two-way ANOVA**), that is, we would check the influence of both factors on the dependent variable in one analysis.
+  
+However, two-way analysis can also show us whether, in addition to the influence of two factors on a variable, there is also an interaction between these factors that can also have an influence. So, in two-way ANOVA, in addition to the two main factors, one can add their interaction[^4].
+  
+[^4]: In our analysis, this is not entirely logical, because there is no  connection between the year of birth of a tennis player and the population of the city in which she lives.
+
+```{r, echo=F, include=F}
+final_data %>% group_by(factor.city, year) %>% summarize(mean=mean(points))
+```
+```{r, echo=F}
+fit3 <- aov(points ~ year * factor.city, data = final_data)
+summary(fit3)
+```
+As a result, we see that the *p-value* of the interaction of *year:factor.city* factors is less than 0.05, which allows us to reject the hypothesis about the influence of the interaction of these factors on the independent variable. 
+  
+## Summary  
+  
+Let's look at a graph that takes into account all our findings:
+  
+*Average number of RTT points as of 10/25/2020* 
+```{r, fig.width=10, fig.height=5, echo=F}
+pd = position_dodge(0.4)
+ggplot(final_data, aes(year, points, col = factor.city))+
+  stat_summary(fun = mean, geom = 'point', lwd = 1.2, position = pd)+ 
+  stat_summary(fun.data = mean_se, geom = 'errorbar', width=0.2, size = 0.5, position = pd) +
+  scale_y_continuous(name = "points", breaks = seq(0, 1150, 25))+xlab("year")+
+  scale_color_discrete(breaks=c("moscow", "spb", "other"),
+                       labels=c("Moscow", "Saint-Petersburg","Other cities"))+
+  theme_classic()+theme
+```
+  
+## Conclusion 
+  
+Using the simplest statistical analysis tools, we were able to show the dependence of the number of PTT points on factors such as the population of the city and the year of birth of the tennis player. However, although we have shown that the score variable depends on both factors, the analysis showed that not all levels of these factors have the same value.
+  
+As a result, we can conclude that between the youngest tennis players born in 2009-2011 there are no significant differences in the level of play (if we consider the number of points scored by experience), and the difference in points is noticeable between tennis players from Moscow and from cities with a population of less than 3 million people.
+
+
