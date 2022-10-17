@@ -1,4 +1,4 @@
-## Product Data Analysis. Related Products
+## Product Data Analytics. Related Products
 
 <img src='data/action.png'>
 
