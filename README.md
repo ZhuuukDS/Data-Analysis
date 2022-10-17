@@ -8,4 +8,4 @@ My Exploratory Data Analysis (EDA), Product Analysis and Statistical projects ar
 4. [Shooting Cases Statistical Analysis](https://github.com/ZhuuukDS/Data-Analysis/tree/main/Shooting%20Cases%20Statistical%20Analysis)
 5. [Tennis Points Distribution Analysis](https://github.com/ZhuuukDS/Data-Analysis/tree/main/Tennis%20Points%20Distribution%20Analysis)
 
-<img src='vis_collage.png' height=250>
+
