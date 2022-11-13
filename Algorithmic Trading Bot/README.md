@@ -1,6 +1,6 @@
 ## Algorithmic Trading Bot
 
-<img src='bot.png' height=250>
+<img src='bot.png' height=450>
 
 #### Task Formulation
 
