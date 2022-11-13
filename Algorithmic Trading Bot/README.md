@@ -42,5 +42,6 @@ Here I used:
 - [api_keys](api_keys.py) - a python script with api keys to connect to Binance Exchange (not relevant)
 
 
-ATTENTION: This project is for educational purpose only! Do not try this bot on real money without backtesting. 
+
+ATTENTION: This project is for educational purposes only! Do not try this bot on real money without backtesting. 
 
