@@ -21,7 +21,7 @@ Here I used:
   - [Schaff Trend Cycle (STC)](https://www.investopedia.com/articles/forex/10/schaff-trend-cycle-indicator.asp)
   - [Average Directional Index (ADX)](https://www.investopedia.com/terms/a/adx.asp)
 
-- Visualizations with Seaborn:
+- Visualizations (Plotly and Seaborn):
   - Candlechart
   - Technical Indicators: EMA, STC, ADX
   - Lineplot for results
