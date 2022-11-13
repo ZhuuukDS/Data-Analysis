@@ -36,7 +36,7 @@ Here I used:
 
 - [stc_ema_adx](stc_ema_adx.py) - main python script with strategy, functions, API connections
 - [run_trading_strategy_1](run_trading_strategy_1.py) - a python script to run the bot (with threading)
-- [plot_chart](plot_chart.py) - a python script to plot the chart with indicators
+- [plot_indicators](plot_indicators.py) - a python script to plot the chart with indicators
 - [plot_results](plot_results.py) - a python script to plot the results of the trading
 - [trading_strategy_1](trading_strategy_1.csv) - a csv file with trade results
 - [api_keys](api_keys.py) - a python script with api keys to connect to Binance Exchange (not relevant)
