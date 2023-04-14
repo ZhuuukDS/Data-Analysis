@@ -16,6 +16,7 @@ Nevertheless, I wanted to analyse this data and find the answers for the followi
 - What is the impact of Immunization coverage on life Expectancy?
 
 
+![life](https://user-images.githubusercontent.com/93790312/232025257-363c0369-60db-428d-93af-21685b2ef6c9.png)
 
 
 ### You can check [Jupyter Notebook](life_expectancy_eda.ipynb) with full analysis and conclusion.
