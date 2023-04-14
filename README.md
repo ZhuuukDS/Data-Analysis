@@ -9,4 +9,4 @@ My Exploratory Data Analysis (EDA), Product Analysis and Statistical projects ar
 5. [Tennis Points Distribution Analysis](https://github.com/ZhuuukDS/Data-Analysis/tree/main/Tennis%20Points%20Distribution%20Analysis)
 6. [WHO's Life Expectancy Exploratory Data Analysis](https://github.com/ZhuuukDS/Data-Analysis/tree/main/Life%20Expectancy%20EDA)
 
-
+<img src='vis_collage.png' width=400>
